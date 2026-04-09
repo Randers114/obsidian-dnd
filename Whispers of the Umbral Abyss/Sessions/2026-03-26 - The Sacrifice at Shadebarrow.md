@@ -15,17 +15,17 @@ tags:
 # To do
 ![![Campains/Whispers of the Umbral Abyss/Quest log .md]]
 
-## Recap 
+# Recap 
 ![](2026-03-19%20-%20The%20Discovery%20of%20Residium%20and%20the%20Path%20to%20Shadebarrow.md#^Summary)
 
-## Summary 
+# Summary 
 *   **Preparation in [[Westruun]]:** The group stocked up on magic items at Gilmore’s Glorious Goods. They noted a heavy, pressured atmosphere in the city, with increased guards serving the new mayor.
 *   **Infiltration of [[Shadebarrow]]:** Upon reaching the fortress, the party scouted the area and defeated five members of The Ravagers, a cult worshipping the Betrayer Gods.
 *   **Entering the Fortress:** The main doors featured depictions of torture and symbols of the Betrayer Gods. Inside, Roland used his status as a follower of the gods to activate a defaced symbol of Avandra, which opened the way forward.
 *   **Combat and Exploration:** After defeating several blood-like creatures, the group discovered a room containing a skull-shaped vase and inscriptions in Abyssal. 
 *   **The Sacrifice:** Kaelos translated the text, which referenced "oblivion" (Tharizdun) and demanded the relinquishing of hope and valued items. Roland sacrificed his childhood holy symbol by placing it in the vase; the item turned to dust, triggering a secret wall to open.
 
-## Story 
+# Story 
 
 After resting up at talking to [[Eskyld]] the group goes into the city [[Westruun]] to stock up for the coming excursion to [[Shadebarrow]]. Going to the city they find it harder to enter the city as the city guard is checking all people trying to enter, the mood in the city is a bit pressured as there are more guards in the city. Some of the guards are carrying the symbol of the new mayor. They head straight for [[Gilmore’s Glorious Goods]], After stocking up on magic items the group moves out towards [[Shadebarrow]]. 
 

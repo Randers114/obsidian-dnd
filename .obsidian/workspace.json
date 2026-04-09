@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md",
+                "file": "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-26 - The Sacrifice at Shadebarrow"
+              "title": "Kaelos"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "d6d2362c55a46814",
         "type": "tabs",
+        "dimension": 79.7979797979798,
         "children": [
           {
             "id": "fd6d99b670c201b2",
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"people\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +76,7 @@
             }
           },
           {
-            "id": "9e6722a89cdb9941",
+            "id": "1f72ab25efa0eed7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -86,10 +87,27 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "699475e62c4602b2",
+        "type": "tabs",
+        "dimension": 20.2020202020202,
+        "children": [
+          {
+            "id": "6554db8e32e57059",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 369.5
   },
   "right": {
     "id": "7732728b07b05fc6",
@@ -98,6 +116,7 @@
       {
         "id": "583f55d16b65de6b",
         "type": "tabs",
+        "dimension": 72.28682170542635,
         "children": [
           {
             "id": "d98b0b22c41aee2b",
@@ -105,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gemini-scribe/Prompts/example-expert.md",
+                "file": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for example-expert"
+              "title": "Backlinks for 2026-03-26 - The Sacrifice at Shadebarrow"
             }
           },
           {
@@ -124,27 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campains/Whispers of the Umbral Abyss/Sessions/Sessions.md",
+                "file": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sessions"
-            }
-          },
-          {
-            "id": "bcb32b586a956f3e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outgoing links from 2026-03-26 - The Sacrifice at Shadebarrow"
             }
           },
           {
@@ -167,37 +171,51 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gemini-scribe/Prompts/example-expert.md",
+                "file": "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of example-expert"
+              "title": "Outline of Kaelos"
             }
           },
           {
-            "id": "4fdf1c60830cbe90",
+            "id": "a2e72e5917186226",
             "type": "leaf",
             "state": {
-              "type": "gemini-agent-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "gemini-agent-view"
-            }
-          },
-          {
-            "id": "dab8d0b9b6d225f8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
+      },
+      {
+        "id": "1682d44a5286d11a",
+        "type": "tabs",
+        "dimension": 27.71317829457364,
+        "children": [
+          {
+            "id": "6ac8b97ebed504a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Kaelos"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,38 +234,39 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "completed-area:Completed Area": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9a8c47a2def4516c",
+  "active": "1f72ab25efa0eed7",
   "lastOpenFiles": [
-    "Whispers of the Umbral Abyss/Sessions/Kaelos.md",
     "Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md",
-    "Whispers of the Umbral Abyss/People/Wayfarers Accord/Wayfarers Accord.md",
     "Whispers of the Umbral Abyss/Sessions/Sessions.md",
+    "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss.md",
+    "Misc/Scripts/Scripts.md",
+    "Whispers of the Umbral Abyss/Quest log .md",
+    "Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Whispers of the Umbral Abyss/People/People.md",
+    "Whispers of the Umbral Abyss/Organizations/Organizations.md",
+    "Campains/Whispers of the Umbral Abyss/Quest log.md",
+    "Misc/Templates/Organization.md",
+    "Misc/Templates/Beast.md",
+    "Campains/Whispers of the Umbral Abyss",
+    "Campains",
+    "Whispers of the Umbral Abyss/Sessions/Kaelos.md",
+    "Whispers of the Umbral Abyss/People/Wayfarers Accord/Wayfarers Accord.md",
     "Whispers of the Umbral Abyss/Sessions/Kymal.md",
     "Whispers of the Umbral Abyss/Sessions/Roland.md",
-    "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss.md",
-    "Whispers of the Umbral Abyss/Quest log .md",
     "Vault.md",
     "Whispers of the Umbral Abyss/Sessions/2026-01-08 - Whitestone, Sesaly, and the Misty Path.md",
     "Whispers of the Umbral Abyss/Sessions/2026-03-05 - The Myriad's Hideout in Turst Field.md",
     "Whispers of the Umbral Abyss/Sessions/2026-03-19 - The Discovery of Residium and the Path to Shadebarrow.md",
-    "Whispers of the Umbral Abyss/People/People.md",
     "Campains/Campains.md",
     "Campains/Dangerous Designs/Sessions.md",
-    "Whispers of the Umbral Abyss/Locations/Locations.md",
     "Whispers of the Umbral Abyss/Locations/Cobalt Reserve.md",
     "Misc/Templates/Place.md",
     "Misc/Templates/Person.md",
     "Misc/Templates/Session.md",
     "Whispers of the Umbral Abyss/Sessions/2025-10-16 - Auction in Kymal and the Rescue of Hotesh.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-10-09 - The Auction Ticket and the Secret Basement.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-07-10 - The Singer's Request and the Customs Ledger.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-07-03 - Inquiries at The Sable Note and the Docks.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-06-19 - Arrival in Stillben and Tracking the Suntree Root.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-06-12 - Chains Broken.md",
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
@@ -256,8 +275,6 @@
     "Spaces/#copilot-conversation",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "Misc/Scripts/filenames.js",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
     "Misc/Files/Iceland/IMG20230305121652.jpg",

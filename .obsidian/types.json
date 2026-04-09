@@ -6,6 +6,7 @@
     "locations": "multitext",
     "people": "multitext",
     "organizations": "multitext",
-    "": "multitext"
+    "": "multitext",
+    "list": "multitext"
   }
 }
