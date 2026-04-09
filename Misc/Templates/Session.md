@@ -1,12 +1,12 @@
 ---
 people:
-  - "[[Campains/Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md]]"
-  - "[[Campains/Whispers of the Umbral Abyss/People/Wayfarers Accord/Thaldrin.md]]"
-  - "[[Campains/Whispers of the Umbral Abyss/People/Wayfarers Accord/Roland.md]]"
+  - "[[Kaelos]]"
+  - "[[Thaldrin]]"
+  - "[[Roland]]"
 locations:
-  - "[[Campains/Whispers of the Umbral Abyss/Locations/Cities/Kymal.md]]"
+  - "[[Kymal]]"
 organizations:
-  - "[[Campains/Whispers of the Umbral Abyss/Locations/Cities/Kymal.md]]"
+  - "[[Kymal]]"
 tags:
   - whispers_of_the_umbral_abyss
   - "#session"

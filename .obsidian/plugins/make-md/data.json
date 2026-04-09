@@ -55,7 +55,10 @@
     "/",
     "//Misc",
     "//Misc/Misc/Templates",
-    "Campains/Whispers of the Umbral Abyss/Campains/Whispers of the Umbral Abyss/Sessions"
+    "Campains/Whispers of the Umbral Abyss/Campains/Whispers of the Umbral Abyss/Sessions",
+    "Whispers of the Umbral Abyss",
+    "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions",
+    "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/People"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
