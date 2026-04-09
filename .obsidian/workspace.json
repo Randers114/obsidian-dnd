@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "5f97e2af587f94b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "54941eadabf1bf3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a8c47a2def4516c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campains/Whispers of the Umbral Abyss/Sessions/2025-03-27 - Portals and the death of Roland.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-27 - Portals and the death of Roland"
+            }
+          },
+          {
+            "id": "a5f78dc13746d978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campains/Whispers of the Umbral Abyss/People/People.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "People"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35e312f9589871b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d2362c55a46814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd6d99b670c201b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf9a67f559e371d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aff769db8418f481",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b7d65e489cb32bd5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 533.5
+  },
+  "right": {
+    "id": "7732728b07b05fc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "583f55d16b65de6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98b0b22c41aee2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "gemini-scribe/Prompts/example-expert.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for example-expert"
+            }
+          },
+          {
+            "id": "1a719312e112c14f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campains/Whispers of the Umbral Abyss/Sessions/Sessions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sessions"
+            }
+          },
+          {
+            "id": "bcb32b586a956f3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a540b4aea60a4fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b24c9b14c40479b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "gemini-scribe/Prompts/example-expert.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of example-expert"
+            }
+          },
+          {
+            "id": "4fdf1c60830cbe90",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
+          },
+          {
+            "id": "dab8d0b9b6d225f8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 452.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "completed-area:Completed Area": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
+    }
+  },
+  "active": "fd6d99b670c201b2",
+  "lastOpenFiles": [
+    "Campains/Whispers of the Umbral Abyss/Quest log .md",
+    "Campains/Whispers of the Umbral Abyss/People/People.md",
+    "Campains/Campains.md",
+    "Campains/Whispers of the Umbral Abyss/Whispers of the Umbral Abyss.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/Sessions.md",
+    "Campains/Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Campains/Whispers of the Umbral Abyss/Locations/Cobalt Reserve.md",
+    "Misc/Templates/Place.md",
+    "Misc/Templates/Person.md",
+    "Misc/Templates/Session.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-10-16 - Auction in Kymal and the Rescue of Hotesh.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-10-09 - The Auction Ticket and the Secret Basement.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-07-10 - The Singer's Request and the Customs Ledger.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-07-03 - Inquiries at The Sable Note and the Docks.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-06-19 - Arrival in Stillben and Tracking the Suntree Root.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-06-12 - Chains Broken.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-03-27 - Portals and the death of Roland.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-11-27 - Closing the Elemental Portal.md",
+    "gemini-scribe/Agent-Sessions/Closing the Elemental Portal --- To update your.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-12-04 - The Monastery's Secrets and the Hunt for Gruuk.md",
+    "gemini-scribe/AGENTS.md",
+    "gemini-scribe/example-prompts.json",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-04-03 - The Automaton and the Three Prisms.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-04-03 - The automaton and the three prism.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-04-10 - Portals, Gods, and Missing Pieces.md",
+    "Campains/Whispers of the Umbral Abyss/Sessions/2025-05-28 - Chains in the Mountain.md",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/skills",
+    "gemini-scribe",
+    "Spaces/#copilot-conversation",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Misc/Scripts/filenames.js",
+    "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
+    "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
+    "Misc/Files/Iceland/IMG20230305121652.jpg",
+    "Misc/Files/Iceland/IMG20230305134021.jpg",
+    "Misc/Files/Iceland/IMG20230305112859.jpg",
+    "Misc/Files/Iceland/IMG20230305161804.jpg",
+    "Misc/Files/Iceland/IMG20230305113216.jpg",
+    "Misc/Files/Iceland/IMG20230305142357.jpg",
+    "Travel/Travel Canvas .canvas"
+  ]
+}

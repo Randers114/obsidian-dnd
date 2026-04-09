@@ -1,0 +1,70 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Misc/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "Misc/Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Campains/Call of the Netherdeep/Sessions",
+      "template": "Misc/Templates/Session.md"
+    },
+    {
+      "folder": "Campains/Call of the Netherdeep/People",
+      "template": "Misc/Templates/Person.md"
+    },
+    {
+      "folder": "Campains/Call of the Netherdeep/Locations",
+      "template": "Misc/Templates/Place.md"
+    },
+    {
+      "folder": "Campains/Call of the Netherdeep/Locations/Cities",
+      "template": "Misc/Templates/Place.md"
+    },
+    {
+      "folder": "Campains/Call of the Netherdeep/Organizations",
+      "template": "Misc/Templates/Organization.md"
+    },
+    {
+      "folder": "Campains/Whispers of the Umbral Abyss/Sessions",
+      "template": "Misc/Templates/Session.md"
+    },
+    {
+      "folder": "Campains/Whispers of the Umbral Abyss/People",
+      "template": "Misc/Templates/Person.md"
+    },
+    {
+      "folder": "Campains/Whispers of the Umbral Abyss/Locations",
+      "template": "Misc/Templates/Place.md"
+    },
+    {
+      "folder": "Campains/Call of the Netherdeep/Locations/Citie",
+      "template": "Misc/Templates/Place.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
