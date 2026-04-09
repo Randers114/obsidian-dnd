@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Kaelos",
-      "path": "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md"
+      "basename": "Person Template",
+      "path": "Misc/Templates/Person Template.md"
     },
     {
       "basename": "2026-03-26 - The Sacrifice at Shadebarrow",
       "path": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md"
+    },
+    {
+      "basename": "Quest log",
+      "path": "Campains/Whispers of the Umbral Abyss/Quest log.md"
+    },
+    {
+      "basename": "2026-03-12 - The Rescue of the Forced Servants",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-12 - The Rescue of the Forced Servants.md"
+    },
+    {
+      "basename": "NPC Directory",
+      "path": "Whispers of the Umbral Abyss/Bases/NPC Directory.base"
+    },
+    {
+      "basename": "Quest Board",
+      "path": "Whispers of the Umbral Abyss/Bases/Quest Board.md"
+    },
+    {
+      "basename": "Organization Template",
+      "path": "Misc/Templates/Organization Template.md"
+    },
+    {
+      "basename": "Quest Template",
+      "path": "Misc/Templates/Quest Template.md"
+    },
+    {
+      "basename": "Place Template",
+      "path": "Misc/Templates/Place Template.md"
+    },
+    {
+      "basename": "Session Template",
+      "path": "Misc/Templates/Session Template.md"
+    },
+    {
+      "basename": "Organization Old",
+      "path": "Misc/Templates/Organization Old.md"
+    },
+    {
+      "basename": "Session Old",
+      "path": "Misc/Templates/Session Old.md"
+    },
+    {
+      "basename": "Kaelos",
+      "path": "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md"
     },
     {
       "basename": "Sessions",
@@ -35,10 +79,6 @@
     {
       "basename": "Organizations",
       "path": "Whispers of the Umbral Abyss/Organizations/Organizations.md"
-    },
-    {
-      "basename": "Organization",
-      "path": "Misc/Templates/Organization.md"
     }
   ],
   "omittedPaths": [],

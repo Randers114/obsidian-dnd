@@ -7,6 +7,8 @@
     "people": "multitext",
     "organizations": "multitext",
     "": "multitext",
-    "list": "multitext"
+    "list": "multitext",
+    "sessionNumber": "number",
+    "date": "text"
   }
 }

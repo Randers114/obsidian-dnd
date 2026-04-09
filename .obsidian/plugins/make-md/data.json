@@ -61,7 +61,12 @@
     "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Locations/Whispers of the Umbral Abyss/Locations/Cities",
     "//Spaces",
     "//Whispers of the Umbral Abyss",
-    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions"
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions",
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Locations",
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Organizations",
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/People",
+    "//Misc",
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Bases"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",

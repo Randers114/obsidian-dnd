@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "person"
+properties:
+  file.name:
+    displayName: Name
+  organization:
+    displayName: Organization
+  location:
+    displayName: Location
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: NPCs
+    order:
+      - file.name
+      - organization
+      - location
+      - status

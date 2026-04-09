@@ -15,40 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Campains/Call of the Netherdeep/Sessions",
-      "template": "Misc/Templates/Session.md"
-    },
-    {
-      "folder": "Campains/Call of the Netherdeep/People",
-      "template": "Misc/Templates/Person.md"
-    },
-    {
-      "folder": "Campains/Call of the Netherdeep/Locations",
-      "template": "Misc/Templates/Place.md"
-    },
-    {
-      "folder": "Campains/Call of the Netherdeep/Locations/Cities",
-      "template": "Misc/Templates/Place.md"
-    },
-    {
-      "folder": "Campains/Call of the Netherdeep/Organizations",
-      "template": "Misc/Templates/Organization.md"
-    },
-    {
       "folder": "Campains/Whispers of the Umbral Abyss/Sessions",
-      "template": "Misc/Templates/Session.md"
+      "template": "Misc/Templates/Session Template.md"
     },
     {
       "folder": "Campains/Whispers of the Umbral Abyss/People",
-      "template": "Misc/Templates/Person.md"
+      "template": "Misc/Templates/Person Template.md"
     },
     {
       "folder": "Campains/Whispers of the Umbral Abyss/Locations",
-      "template": "Misc/Templates/Place.md"
+      "template": "Misc/Templates/Place Template.md"
     },
     {
-      "folder": "Campains/Call of the Netherdeep/Locations/Citie",
-      "template": "Misc/Templates/Place.md"
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,
@@ -66,5 +46,6 @@
   "startup_templates": [
     ""
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }
