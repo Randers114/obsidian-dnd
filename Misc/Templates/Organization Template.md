@@ -1,11 +1,8 @@
 ---
 type: organization
-campaign: Whispers of the Umbral Abyss
-
 orgType: (guild, cult, government)
-alignment: 
-base: 
-
+alignment:
+base:
 tags:
   - organization
 ---

@@ -24,7 +24,127 @@
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
-        "mode": "default",
+        "mode": "source",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c4c5fe1b-7e9a-4916-9851-e1b1f89864f7",
+      "name": "Template - Person",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Misc/Templates/Person Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Whispers of the Umbral Abyss/People"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "source",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "955f2ec8-b684-47b0-9c12-bd57be0415a9",
+      "name": "Template - Place",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Misc/Templates/Place Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Whispers of the Umbral Abyss/Locations"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "source",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "af9dffd7-4dd5-4c4f-8912-3c179439b673",
+      "name": "Template - Quest",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Misc/Templates/Quest Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Quest - {{VALUE:Main,Side,Personal}} - {{VALUE:title|label:Title}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Whispers of the Umbral Abyss/Quest Log"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "source",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "4cc26ba5-60e6-47e4-b04a-40720ad0379f",
+      "name": "Template - Organization",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Misc/Templates/Organization Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Whispers of the Umbral Abyss/Organizations"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "source",
         "focus": true
       },
       "fileExistsMode": "Increment the file name",

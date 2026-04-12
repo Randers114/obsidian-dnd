@@ -1,18 +1,51 @@
-name:: Lorvein Drenner
-tags:: #whispers_of_the_umbral_abyss #person 
-locations:: [[Cobalt Soul]] 
-race:: 
-gender:: #female
-occupation:: #archivist
-organization:: [[Campains/Call of the Netherdeep/Organizations/Cobalt Soul]]
-short:: 
+---
+type: person
+race:
+gender: Female
+occupation: Archivist
+organizations:
+  - "[[Cobalt Soul]]"
+locations:
+  - "[[Cobalt Soul]]"
+status:
+tags:
+  - person
+---
 
+# Description
+- First impression: Knowledgeable and specialized researcher
+- Appearance: (Not described)
+- Voice / mannerisms: Methodical *(inferred)*
 
+---
 
-# Description 
+# Motivation
+- Wants: To preserve and provide access to knowledge
+- Hides: (Unknown)
 
+---
 
-# Relationship 
+# Relationships
+## Allies
+- [[Maren]]
 
+## Enemies
+- (Unknown)
+
+---
+
+# Involvement
+## Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+## Sessions
+- Session 5
+
+---
 
 # Notes
+- Helped the group locate information about [[The Writhing Warden]]
+- Provided key lore:
+  - Ancient demon lord
+  - Devours entities
+  - Was imprisoned long ago

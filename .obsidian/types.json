@@ -9,6 +9,11 @@
     "": "multitext",
     "list": "multitext",
     "sessionNumber": "number",
-    "date": "text"
+    "date": "text",
+    "assignedBy": "text",
+    "location": "multitext",
+    "organization": "multitext",
+    "quests": "multitext",
+    "controlledBy": "text"
   }
 }

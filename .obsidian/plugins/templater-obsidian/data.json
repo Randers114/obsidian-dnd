@@ -27,8 +27,8 @@
       "template": "Misc/Templates/Place Template.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "Whispers of the Umbral Abyss/Quest Log",
+      "template": "Misc/Templates/Quest Template.md"
     }
   ],
   "enable_file_templates": false,

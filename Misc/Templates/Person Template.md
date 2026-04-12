@@ -1,11 +1,10 @@
 ---
 type: person
-campaign: Whispers of the Umbral Abyss
 race:
 gender:
 occupation:
-organization:
-location:
+organizations:
+locations:
 status: alive
 tags:
   - person

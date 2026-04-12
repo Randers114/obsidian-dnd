@@ -1,14 +1,11 @@
 ---
+title:
 type: quest
-campaign: Whispers of the Umbral Abyss
-
-status: active        # active / completed / failed
-priority: main        # main / side
-
-assignedBy: 
-location: 
-organization: 
-
+status: active
+priority: main
+assignedBy:
+locations:
+organizations:
 tags:
   - quest
 ---

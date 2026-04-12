@@ -1,11 +1,8 @@
 ---
 type: place
-campaign: Whispers of the Umbral Abyss
-
 placeType: (city, dungeon, region)
-region: 
-controlledBy: 
-
+region:
+controlledBy:
 tags:
   - place
 ---

@@ -1,8 +1,10 @@
 ---
+sessionNumber: 1
+date: 2024-09-19
 people:
   - "[[Kaelos]]"
-  - "[[Thaldrin]]"
   - "[[Roland]]"
+  - "[[Thaldrin]]"
   - "[[Bertim]]"
   - "[[Brynja Ironbrow]]"
 locations:
@@ -10,14 +12,26 @@ locations:
   - "[[Stag and Flagon]]"
   - "[[The Fleeting Pages]]"
   - "[[Tallstack Farm]]"
-tags:
-  - whispers_of_the_umbral_abyss
-  - session
 organizations:
   - "[[Cobalt Soul]]"
+quests:
+  - "[[Quest - Main - Investigate the Umbral Attack]]"
+tags:
+  - session
 ---
-## Summary 
+# 2024-09-19 - Attack of Kymal
 
+## 🎯 Session Goals (Before Play)
+- First Session
+
+---
+
+## 🧠 Recap
+- First Session
+
+---
+
+## 📖 Summary
 - The group starts apart in the tavern **[[Stag and Flagon]]** and is drawn together by an attack.
 - The city is under attack by various creatures, and the group must ring the city’s alarm bells at the gates.
 - At the gates, the party encounters two large humanoids, one of whom transforms into a bat and flies away.
@@ -26,17 +40,88 @@ organizations:
 - **[[Brynja Ironbrow]]** connects the attack to disappearances in nearby farmsteads, particularly at **[[Tallstack Farm]]**.
 - The session ends with the group planning to investigate **[[Tallstack Farm]]** the following day.
 
-## Story 
+---
 
-We find the team sitting apart in a tavern called [[Stag and Flagon]] as they don't know each other yet. A piercing scream is heard outside and guards run towards the door. A large man slams open the door and crushes the guards. He yells something and three giant rats storm in. [[Kaelos]], [[Roland]] and [[Thaldrin]] stands up to fight. 
+## 🗺️ Key Events
+- Party meets in [[Stag and Flagon]] during a surprise attack  
+- Defeat a large humanoid attacker and giant rats  
+- Ring the city alarm bell
+- Encounter evidence of organized abductions  
+- Discover attackers were searching for [[On the edge of the Abyss]]  
+- Meet [[Brynja Ironbrow]] and are asked to investigate  
+- Learn about disappearances linked to [[Tallstack Farm]]  
+- Tracks suggest movement west toward a forest
 
-After an intense fight where some people in the tavern died the group defeats the large man and the rats. One of the guards was still conscious and told the group that they should ring the bells before he falls unconscious. The group runs out the door and sees that the city is being overrun with different creatures, but they decide to keep running for the alarm bells which is at the town gates. At the gates they find 2 humanoids one larger than the other but both very large. The big one seems like the leader and tells the other one not to fuck up and they need as many captured as possible for the ritual and the item they are looking for at [[The Fleeting Pages]]. The larger one looks like he has fangs, he transforms into a bat and flies away. The group runs for the bell and hears flapping wings above. They see a large vampire bat and jumps towards the wall for cover. The door to the tower is locked but [[Kaelos]] picks the lock and hurries inside. [[Roland]] rings the bell and the group is attacked by giant bats. 
 
-After an intense fight with two bats, after the bell rings there is a split second of silence in the city. The attack on the city slowly stops as the invading creatures slowly starts to retreat. The group hurries down the tower in order to run towards [[The Fleeting Pages]], they are stopped right outside the tower by [[Brynja Ironbrow]]. She asks the group what has happed and they explain what has happened, she runs with the group towards [[The Fleeting Pages]] bookstore.  In the bookstore they find a man lying on the floor with a broken leg. They help him up and he says that the ones who attacked him were looking for a particular book, an old book of demons, the book was called [[On the edge of the Abyss]]. [[Roland]] helps up [[Bertim]] the bookstore owner and the group moves back towards the [[Stag and Flagon]] tavern. They set off [[Bertim]] and moves out in the city again to help patrol. They see evidence that the people they saw being captured were successfully abducted. 
+---
 
-They see a symbol on the ground and remember that all the people that invaded wore a symbol of a half moon with an eye in the middle. The group goes back to the [[Stag and Flagon]] and see the guard that passed out sitting at a table looking a bit shellshocked. [[Roland]] goes around the tavern helping people and bandaging them. [[Kaelos]] moves over to the guard, and starts talking to him about what has happened, he did not recognize anyone from the invading group. They start talking to [[Bertim]] and he does not know anything about the attack either, he tells them that the book was about the history of demons. He did not have the book for a long time. 
+## 🧾 Quests Updated
+- [[Quest - Main - Investigate the Umbral Attack]]
 
-After talking to [[Bertim]], [[Brynja Ironbrow]] walks over and thanks the group for the help in defending the city. [[Thaldrin]] asks her if she has seen the symbol the attackers wore before and shows her the symbol they picked up. She did not know anything about it but asks the group for help investigating the issue. She links the attack to the recent disappearances of livestock and people from the surrounding farmsteads that drew the group to the city. It was a vampire that seemed to be the leader of the attack. 
 
-The first place she remembers the disappearances and also the place that has been worst hit [[Brynja Ironbrow]] remembers as the [[Tallstack Farm]]. The group decides to meet up the next day at the [[Tallstack Farm]]. And [[Kaelos]] goes up to his room to get some rest. Walking home to his farmstead to get rest [[Roland]] notices the tracks from the attackers of the city heading west towards a large forest. 
+---
 
+## ⚠️ Open Threads
+- The identity and purpose of the attackers  
+- The meaning of the half-moon eye symbol  
+- The missing book [[On the edge of the Abyss]]  
+- The ritual the attackers mentioned  
+- The abducted townsfolk and their fate  
+- The vampire leader’s identity and goal
+
+---
+
+## ❓ Questions
+- What is the ritual the attackers are preparing?  
+- Why were people captured instead of killed?  
+- What is special about [[On the edge of the Abyss]]?  
+- Who is behind the symbol of the half-moon with an eye?  
+- Is [[The Fleeting Pages]] specifically targeted or just connected to the book?  
+- What is happening at [[Tallstack Farm]]?  
+- What lies in the forest to the west? *(inferred from tracks)*
+
+---
+
+
+## 📚 Story (Detailed Narrative)
+
+### Scene 1 – The Tavern Attack  
+The party finds themselves in [[Stag and Flagon]], sitting separately as strangers. A piercing scream cuts through the air outside, followed by guards rushing toward the door. Moments later, a large man bursts in, crushing the guards, shouting something unintelligible before three giant rats flood into the tavern.  
+  
+[[Kaelos]], [[Roland]], and [[Thaldrin]] rise to fight. The battle is chaotic and deadly, with several patrons killed before the group manages to defeat the attackers.  
+  
+A surviving guard, barely conscious, urges them to ring the city alarm bells before collapsing.  
+  
+---  
+  
+### Scene 2 – The Bell Tower  
+The group rushes outside to find the city in chaos—creatures overrunning the streets. They push toward the alarm bells near the gates.  
+  
+At the gates, they spot two large humanoids. The larger appears to command the other, warning him not to fail and emphasizing the need to capture as many people as possible for a ritual and to locate an item at [[The Fleeting Pages]]. The leader reveals fangs before transforming into a bat and flying away.  
+  
+The group reaches the bell tower as a massive bat circles overhead. Taking cover, they force entry after [[Kaelos]] picks the lock. [[Roland]] rings the bell as giant bats attack.  
+  
+After a fierce fight, the bell rings out across the city. A brief silence follows before the invading creatures begin to retreat.  
+  
+---  
+  
+### Scene 3 – The Bookstore and Aftermath  
+With the immediate threat subsiding, the group heads toward [[The Fleeting Pages]]. Outside the tower, they are stopped by [[Brynja Ironbrow]], who quickly joins them after hearing their account.  
+  
+Inside the bookstore, they find [[Bertim]], the owner, injured with a broken leg. He reveals that the attackers were searching for a book titled [[On the edge of the Abyss]], an old tome about demons. He no longer possesses the book.  
+  
+After helping him, the group returns him safely to [[Stag and Flagon]] and ventures back into the city to assist with patrols. They observe clear signs that some townsfolk were captured and taken.  
+  
+They also identify a symbol associated with the attackers: a half-moon with an eye.  
+  
+Back at the tavern, the group questions survivors. The guard recalls nothing useful, and [[Bertim]] cannot provide further insight beyond the book’s subject.  
+  
+[[Brynja Ironbrow]] later approaches the group, thanking them and asking for their help investigating the attack. She connects it to recent disappearances of livestock and people from nearby farms and confirms that the leader appeared to be a vampire.  
+  
+She identifies [[Tallstack Farm]] as the worst-affected location and suggests starting there.  
+  
+The group agrees to meet the next day.  
+  
+As the night ends:  
+- [[Kaelos]] retires to rest  
+- [[Roland]] notices tracks leading west toward a large forest

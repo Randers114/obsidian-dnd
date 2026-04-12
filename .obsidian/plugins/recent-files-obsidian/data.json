@@ -1,84 +1,200 @@
 {
   "recentFiles": [
     {
-      "basename": "Person Template",
-      "path": "Misc/Templates/Person Template.md"
-    },
-    {
-      "basename": "2026-03-26 - The Sacrifice at Shadebarrow",
-      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md"
-    },
-    {
-      "basename": "Quest log",
-      "path": "Campains/Whispers of the Umbral Abyss/Quest log.md"
-    },
-    {
-      "basename": "2026-03-12 - The Rescue of the Forced Servants",
-      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-12 - The Rescue of the Forced Servants.md"
-    },
-    {
-      "basename": "NPC Directory",
-      "path": "Whispers of the Umbral Abyss/Bases/NPC Directory.base"
-    },
-    {
-      "basename": "Quest Board",
-      "path": "Whispers of the Umbral Abyss/Bases/Quest Board.md"
-    },
-    {
-      "basename": "Organization Template",
-      "path": "Misc/Templates/Organization Template.md"
-    },
-    {
-      "basename": "Quest Template",
-      "path": "Misc/Templates/Quest Template.md"
-    },
-    {
-      "basename": "Place Template",
-      "path": "Misc/Templates/Place Template.md"
-    },
-    {
-      "basename": "Session Template",
-      "path": "Misc/Templates/Session Template.md"
-    },
-    {
-      "basename": "Organization Old",
-      "path": "Misc/Templates/Organization Old.md"
-    },
-    {
-      "basename": "Session Old",
-      "path": "Misc/Templates/Session Old.md"
-    },
-    {
-      "basename": "Kaelos",
-      "path": "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md"
-    },
-    {
-      "basename": "Sessions",
-      "path": "Whispers of the Umbral Abyss/Sessions/Sessions.md"
-    },
-    {
-      "basename": "Whispers of the Umbral Abyss",
-      "path": "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss.md"
-    },
-    {
-      "basename": "Scripts",
-      "path": "Misc/Scripts/Scripts.md"
-    },
-    {
-      "basename": "Quest log ",
-      "path": "Whispers of the Umbral Abyss/Quest log .md"
-    },
-    {
-      "basename": "Locations",
-      "path": "Whispers of the Umbral Abyss/Locations/Locations.md"
-    },
-    {
       "basename": "People",
       "path": "Whispers of the Umbral Abyss/People/People.md"
     },
     {
       "basename": "Organizations",
       "path": "Whispers of the Umbral Abyss/Organizations/Organizations.md"
+    },
+    {
+      "basename": "Locations",
+      "path": "Whispers of the Umbral Abyss/Locations/Locations.md"
+    },
+    {
+      "basename": "Quest Log",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest Log.md"
+    },
+    {
+      "basename": "NPC Directory",
+      "path": "Whispers of the Umbral Abyss/Bases/NPC Directory.base"
+    },
+    {
+      "basename": "Session Template",
+      "path": "Misc/Templates/Session Template.md"
+    },
+    {
+      "basename": "2026-03-26 - Doors of Shadebarrow",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md"
+    },
+    {
+      "basename": "2026-03-19 - Keys to the Vault",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-19 - Keys to the Vault.md"
+    },
+    {
+      "basename": "2026-03-12 - Into the Myriad Hideout",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-12 - Into the Myriad Hideout.md"
+    },
+    {
+      "basename": "2026-03-04 - Into the Cistern",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-04 - Into the Cistern.md"
+    },
+    {
+      "basename": "2026-02-05 - Audience at Whitestone",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-02-05 - Audience at Whitestone.md"
+    },
+    {
+      "basename": "2026-01-15 - The Hag in the Hollow Tree",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-01-15 - The Hag in the Hollow Tree.md"
+    },
+    {
+      "basename": "2026-01-08 - Dreams in the Mist",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-01-08 - Dreams in the Mist.md"
+    },
+    {
+      "basename": "2025-12-04 - Echoes of the Monastery",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-12-04 - Echoes of the Monastery.md"
+    },
+    {
+      "basename": "2025-11-27 - Ambush and Aftermath",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-11-27 - Ambush and Aftermath.md"
+    },
+    {
+      "basename": "2025-10-16 - The Price of Freedom",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-10-16 - The Price of Freedom.md"
+    },
+    {
+      "basename": "2025-10-09 - Invitation to the Auction",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-10-09 - Invitation to the Auction.md"
+    },
+    {
+      "basename": "2025-07-10 - Roots and Ledgers",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-07-10 - Roots and Ledgers.md"
+    },
+    {
+      "basename": "2025-07-03 - Whispers and Ledgers",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-07-03 - Whispers and Ledgers.md"
+    },
+    {
+      "basename": "2025-06-19 - Shadows of Stillben",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-06-19 - Shadows of Stillben.md"
+    },
+    {
+      "basename": "2025-06-12 - Chains Broken, Paths Ahead",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-06-12 - Chains Broken, Paths Ahead.md"
+    },
+    {
+      "basename": "2025-05-28 - Shadows of the Menagerie",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-05-28 - Shadows of the Menagerie.md"
+    },
+    {
+      "basename": "2025-04-10 - Fragments of the Multiverse",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-04-10 - Fragments of the Multiverse.md"
+    },
+    {
+      "basename": "2025-04-03 - The Threefold Convergence",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-04-03 - The Threefold Convergence.md"
+    },
+    {
+      "basename": "2025-03-27 - Fractured Paths - Thaldrin death",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-03-27 - Fractured Paths - Thaldrin death.md"
+    },
+    {
+      "basename": "2025-03-13 - The Threefold Gate",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-03-13 - The Threefold Gate.md"
+    },
+    {
+      "basename": "2025-02-27 - The Cost of Power",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-02-27 - The Cost of Power.md"
+    },
+    {
+      "basename": "2025-02-06 - The Aether Architect",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-02-06 - The Aether Architect.md"
+    },
+    {
+      "basename": "Sessions",
+      "path": "Whispers of the Umbral Abyss/Sessions/Sessions.md"
+    },
+    {
+      "basename": "2025-01-23 - Breaking the Chains",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-01-23 - Breaking the Chains.md"
+    },
+    {
+      "basename": "2025-01-16 - Relics of the Dawnfather",
+      "path": "Whispers of the Umbral Abyss/Sessions/2025-01-16 - Relics of the Dawnfather.md"
+    },
+    {
+      "basename": "2024-12-19 - The Demon Beneath the Veil",
+      "path": "Whispers of the Umbral Abyss/Sessions/2024-12-19 - The Demon Beneath the Veil.md"
+    },
+    {
+      "basename": "2024-12-12 - Ashes of Zevrin",
+      "path": "Whispers of the Umbral Abyss/Sessions/2024-12-12 - Ashes of Zevrin.md"
+    },
+    {
+      "basename": "2024-10-24 - Blood Moon Directive",
+      "path": "Whispers of the Umbral Abyss/Sessions/2024-10-24 - Blood Moon Directive.md"
+    },
+    {
+      "basename": "2024-10-17 - Tallstack farm and the Stolen livestock",
+      "path": "Whispers of the Umbral Abyss/Sessions/2024-10-17 - Tallstack farm and the Stolen livestock.md"
+    },
+    {
+      "basename": "2024-09-19 - Attack of Kymal",
+      "path": "Whispers of the Umbral Abyss/Sessions/2024-09-19 - Attack of Kymal.md"
+    },
+    {
+      "basename": "Nibs",
+      "path": "Whispers of the Umbral Abyss/People/Nibs.md"
+    },
+    {
+      "basename": "Kaelos",
+      "path": "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md"
+    },
+    {
+      "basename": "Quest - Main - Assist the Realmseer",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md"
+    },
+    {
+      "basename": "Shadebarrow",
+      "path": "Whispers of the Umbral Abyss/Locations/Shadebarrow.md"
+    },
+    {
+      "basename": "Gwen",
+      "path": "Whispers of the Umbral Abyss/People/Gwen.md"
+    },
+    {
+      "basename": "Emon",
+      "path": "Whispers of the Umbral Abyss/Locations/Emon.md"
+    },
+    {
+      "basename": "The Myriad",
+      "path": "Whispers of the Umbral Abyss/Organizations/The Myriad.md"
+    },
+    {
+      "basename": "Quest - Side - Recover the Residium Shipment",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Recover the Residium Shipment.md"
+    },
+    {
+      "basename": "C.H.A.R.L.E.S",
+      "path": "Whispers of the Umbral Abyss/People/Wayfarers Accord/C.H.A.R.L.E.S.md"
+    },
+    {
+      "basename": "Quest - Personal - C.H.A.R.L.E.S - Repair the Gun",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Personal - C.H.A.R.L.E.S - Repair the Gun.md"
+    },
+    {
+      "basename": "Turst Field",
+      "path": "Whispers of the Umbral Abyss/Locations/Turst Field.md"
+    },
+    {
+      "basename": "Lord Darolo",
+      "path": "Whispers of the Umbral Abyss/People/Lord Darolo.md"
+    },
+    {
+      "basename": "The Writhing Warden",
+      "path": "Whispers of the Umbral Abyss/People/The Writhing Warden.md"
     }
   ],
   "omittedPaths": [],

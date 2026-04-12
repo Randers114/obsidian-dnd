@@ -11,14 +11,12 @@
             "id": "9a8c47a2def4516c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Misc/Templates/Person Template.md",
-                "mode": "source",
-                "source": false
+                "path": "Whispers of the Umbral Abyss/People"
               },
               "icon": "lucide-file",
-              "title": "Person Template"
+              "title": "People"
             }
           }
         ]
@@ -33,7 +31,6 @@
       {
         "id": "d6d2362c55a46814",
         "type": "tabs",
-        "dimension": 79.7979797979798,
         "children": [
           {
             "id": "fd6d99b670c201b2",
@@ -54,8 +51,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"people\"]",
-                "matchingCase": false,
+                "query": "\"Serverus Assembly\"",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -76,7 +73,7 @@
             }
           },
           {
-            "id": "152ae5c6b9330057",
+            "id": "fe8d26f58ae099a4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,27 +84,10 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "699475e62c4602b2",
-        "type": "tabs",
-        "dimension": 20.2020202020202,
-        "children": [
-          {
-            "id": "6554db8e32e57059",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 574.5
   },
   "right": {
     "id": "7732728b07b05fc6",
@@ -116,7 +96,7 @@
       {
         "id": "583f55d16b65de6b",
         "type": "tabs",
-        "dimension": 72.28682170542636,
+        "dimension": 67.98076923076923,
         "children": [
           {
             "id": "d98b0b22c41aee2b",
@@ -171,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Templates/Person Template.md",
+                "file": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Investigate the Umbral Attack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Person Template"
+              "title": "Outline of Quest - Main - Investigate the Umbral Attack"
             }
           },
           {
@@ -201,7 +181,7 @@
       {
         "id": "1682d44a5286d11a",
         "type": "tabs",
-        "dimension": 27.713178294573645,
+        "dimension": 32.01923076923077,
         "children": [
           {
             "id": "6ac8b97ebed504a7",
@@ -209,17 +189,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Misc/Templates/Person Template.md"
+                "file": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Investigate the Umbral Attack.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Person Template"
+              "title": "File properties for Quest - Main - Investigate the Umbral Attack"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,42 +220,42 @@
   },
   "active": "9a8c47a2def4516c",
   "lastOpenFiles": [
-    "Misc/Templates/Kyle.md",
-    "Misc/Templates/Person Template.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-03-26 - The Sacrifice at Shadebarrow.md",
-    "Campains/Whispers of the Umbral Abyss/Quest log.md",
-    "Campains/Whispers of the Umbral Abyss",
-    "Campains",
-    "Whispers of the Umbral Abyss/Sessions/2026-04-10 - .md",
-    "Whispers of the Umbral Abyss/Sessions/2026-03-12 - The Rescue of the Forced Servants.md",
-    "Whispers of the Umbral Abyss/Bases/NPC Directory.base",
-    "Whispers of the Umbral Abyss/Bases/Quest Board.md",
-    "Whispers of the Umbral Abyss/Bases/.md",
-    "Misc/Templates/Organization Template.md",
-    "Whispers of the Umbral Abyss/Bases",
-    "Misc/Templates/Quest Template.md",
-    "Misc/Templates/Place Template.md",
-    "Misc/Templates/Session Template.md",
-    "Misc/Templates/Organization Old.md",
-    "Misc/Templates/Person Old.md",
-    "Misc/Templates/Place Old.md",
-    "Misc/Templates/Session Old.md",
-    "Whispers of the Umbral Abyss/People/Wayfarers Accord/Kaelos.md",
-    "Whispers of the Umbral Abyss/Sessions/Sessions.md",
-    "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss.md",
-    "Misc/Scripts/Scripts.md",
-    "Whispers of the Umbral Abyss/Quest log .md",
-    "Whispers of the Umbral Abyss/Locations/Locations.md",
     "Whispers of the Umbral Abyss/People/People.md",
     "Whispers of the Umbral Abyss/Organizations/Organizations.md",
-    "Misc/Templates/Beast.md",
-    "Whispers of the Umbral Abyss/Sessions/Kaelos.md",
+    "Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
+    "Whispers of the Umbral Abyss/Bases/NPC Directory.base",
+    "Misc/Templates/Session Template.md",
+    "Whispers of the Umbral Abyss/Sessions Old/2026-03-05 - The Myriad's Hideout in Turst Field.md",
+    "Whispers of the Umbral Abyss/Sessions Old/2024-09-19 - Attack of Kymal.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-03-19 - Keys to the Vault.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-03-12 - Into the Myriad Hideout.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-03-04 - Into the Cistern.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-02-05 - Audience at Whitestone.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-01-15 - The Hag in the Hollow Tree.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-01-08 - Dreams in the Mist.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-12-04 - Echoes of the Monastery.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-11-27 - Ambush and Aftermath.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-10-16 - The Price of Freedom.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-10-09 - Invitation to the Auction.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-07-10 - Roots and Ledgers.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-07-03 - Whispers and Ledgers.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-06-19 - Shadows of Stillben.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-06-12 - Chains Broken, Paths Ahead.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-05-28 - Shadows of the Menagerie.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-04-10 - Fragments of the Multiverse.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-04-03 - The Threefold Convergence.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-03-27 - Fractured Paths - Thaldrin death.md",
+    "Whispers of the Umbral Abyss/Quest Log",
+    "Whispers of the Umbral Abyss/Sessions",
+    "Campains/Whispers of the Umbral Abyss",
+    "Campains",
+    "Whispers of the Umbral Abyss/Bases",
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
     "gemini-scribe/skills",
-    "gemini-scribe",
-    "Spaces/#copilot-conversation",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
     "Misc/Files/Iceland/IMG20230305121652.jpg",

@@ -1,18 +1,49 @@
-name:: 
-tags:: #whispers_of_the_umbral_abyss #person 
-locations:: 
-race:: 
-gender:: 
-occupation:: 
-organization:: 
-short:: 
+---
+type: person
+race:
+gender: Female
+occupation: Farmer
+organizations:
+locations:
+  - "[[Tallstack Farm]]"
+status: alive
+tags:
+  - person
+---
 
+# Description
+- First impression: Tired but resilient
+- Appearance: (Not described)
+- Voice / mannerisms: Practical and focused on recovery
 
+---
 
-# Description 
+# Motivation
+- Wants: To rebuild the farm and protect her family
+- Hides: (Unknown)
 
+---
 
-# Relationship 
+# Relationships
+## Family
+- [[Joren]]
+- [[Elsa]]
 
+## Enemies
+- (Unknown attackers)
+
+---
+
+# Involvement
+## Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+## Sessions
+- Session 2
+
+---
 
 # Notes
+- Reported attack occurred two nights prior
+- Confirmed livestock was taken while humans were ignored
+- Noted strange markings appearing where animals were taken

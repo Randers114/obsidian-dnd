@@ -8,11 +8,10 @@ locations:
 organizations:
 quests:
 tags:
-  - whispers_of_the_umbral_abyss
   - session
 ---
 
-# Session <% tp.date.now("YYYY-MM-DD") %>
+# <% tp.date.now("YYYY-MM-DD") %> - "Title based on content in the story section"
 
 ## 🎯 Session Goals (Before Play)
 - 
@@ -30,29 +29,12 @@ tags:
 ---
 
 ## 🗺️ Key Events
-- 
-- 
-- 
-
----
-
-## 🎭 NPCs Met
-- [[Name]] – quick note
-
----
-
-## 📍 Locations Visited
-- [[Place Template]]
+- Summary of key events in 3 to 10 bullets depending on need
 
 ---
 
 ## 🧾 Quests Updated
-- [[Quest: ]]
-
----
-
-## 💰 Loot / Rewards
-- Item — who has it
+- [[Quest - ]]
 
 ---
 
