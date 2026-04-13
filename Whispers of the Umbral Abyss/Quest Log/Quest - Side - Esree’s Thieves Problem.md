@@ -6,7 +6,7 @@ priority: side
 assignedBy: "[[Esree]]"
 locations:
   - "[[Stillben]]"
-organization:
+organizations:
 tags:
   - quest
 ---

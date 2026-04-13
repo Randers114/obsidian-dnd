@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "quest"
+properties:
+  title:
+    displayName: Quest
+  status:
+    displayName: Status
+  priority:
+    displayName: Priority
+  assignedBy:
+    displayName: Assigned By
+  locations:
+    displayName: Locations
+  organizations:
+    displayName: Organizations
+  file.path:
+    displayName: File
+views:
+  - type: table
+    name: All Quests
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - title
+      - priority
+      - assignedBy
+      - locations
+      - organizations
+  - type: table
+    name: By Priority
+    groupBy:
+      property: priority
+      direction: ASC
+    order:
+      - title
+      - status
+      - assignedBy
+      - locations

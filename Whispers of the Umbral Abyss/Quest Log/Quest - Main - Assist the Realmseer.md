@@ -8,7 +8,7 @@ locations:
   - "[[Stillben]]"
   - "[[Shadebarrow]]"
   - "[[Whitestone]]"
-organization:
+organizations:
   - "[[Arcana Pansophical]]"
 tags:
   - quest

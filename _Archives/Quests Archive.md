@@ -260,7 +260,7 @@ tags:
     - Enhances strength
     - Drains life force
     - Can be used to summon or free demon lords
-  - Identified potential vampire activity near [[WhiteStone]]
+  - Identified potential vampire activity near [[Whitestone]]
   - Directed toward [[Sephrah]] for further knowledge
 - Session 10:
   - Researched the Abyss and demon lords at [[Cobalt Soul]]
@@ -295,7 +295,7 @@ tags:
 - (Forest north of Tallstack Farm)
 - [[Westruun]]
 - [[Thortil]]
-- [[WhiteStone]]
+- [[Whitestone]]
 - [[Sephrah]]
 
 ---
@@ -964,7 +964,6 @@ tags:
 ---
 
 # Notes
-- Captives have not yet been escorted to safety → quest still active
 - Camp was only a small part of [[Midnight Managerie]] *(confirmed)*
 - Further retaliation or remaining camps possible *(uncertain)*
 - The operation was part of a larger network under [[Midnight Managerie]]

@@ -11,11 +11,17 @@ properties:
     displayName: Location
   status:
     displayName: Status
+  note.organization:
+    displayName: organizations
 views:
   - type: table
     name: NPCs
     order:
       - file.name
-      - organization
-      - location
       - status
+      - locations
+      - organizations
+      - tags
+    sort:
+      - property: organization
+        direction: DESC

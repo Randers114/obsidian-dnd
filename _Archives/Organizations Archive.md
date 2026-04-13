@@ -3,11 +3,14 @@
 ## Index
 - Arcana Pansophical
 - Cerberus Assembly
+- Cobalt Soul
 - Midnight Managerie
 - Order of the Tranquil Mind
 - Sect of The Writhing Warden
+- Special Rifle Corps of Whitestone
 - The Clasp
 - The Myriad
+- The Ravagers
 - The Umbral Abyss
 
 ---
@@ -104,6 +107,56 @@ tags:
 - Represented at the [[Greydawn Hall]] auction
 - Not a criminal organization, but operates with significant power
 - Likely interested in rare magical items such as the [[Suntree Root]]
+
+---
+---
+---
+## Organization File: Cobalt Soul.md
+
+```yaml
+type: organization
+orgType: scholarly order
+alignment:
+base:
+tags:
+  - organization
+```
+
+# Description
+- Purpose: Preservation, research, and sharing of knowledge
+- Methods:
+  - Archives and research assistance
+  - Consultation with scholars and archivists
+- Reputation: Trusted knowledge hub consulted during major investigations
+
+---
+
+# Members
+- [[Maren]]
+- [[Lorvein Drenner]]
+
+---
+
+# Allies
+- [[Brynja Ironbrow]] *(indirectly, via recommendation to consult them)*
+- [[Wayfarers Accord]]
+
+---
+
+# Enemies
+- (Unknown)
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- Consulted by the group in [[Westruun]] during the investigation into [[The Writhing Warden]]
+- Provided lore about demon lords, Aether, and the Abyss through its archivists
+- Functions as an important knowledge source rather than a combat or political faction
 
 ---
 ---
@@ -272,6 +325,55 @@ tags:
 ---
 ---
 ---
+## Organization File: Special Rifle Corps of Whitestone.md
+
+```yaml
+type: organization
+orgType: military corps
+alignment:
+base: "[[Whitestone]]"
+tags:
+  - organization
+```
+
+# Description
+- Purpose: Defense of [[Whitestone]]
+- Methods:
+  - Firearms training and armed service
+  - Organized local military structure
+- Reputation: Established armed force tied to Whitestone’s firearm tradition
+
+---
+
+# Members
+- [[Lord Darolo]]
+- [[Thassian]] *(associated ally / local authority)*
+
+---
+
+# Allies
+- [[Whitestone]]
+
+---
+
+# Enemies
+- (Unknown)
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Mentioned in connection with the group’s audience in [[Whitestone]]
+- Exists within the city’s firearm culture and military structure
+- Likely relevant to [[Lord Darolo]]’s workshop, weapon expertise, and local defense *(inferred)*
+
+---
+---
+---
 ## Organization File: The Clasp.md
 
 ```yaml
@@ -373,6 +475,55 @@ tags:
 - Maintained a hideout in [[Turst Field]] accessed through the cistern system
 - The crest on the Residium order was identified by [[Gwen]] as belonging to a [[The Myriad]] department in [[Emon]]
 - Appears to operate through regional branches or departments
+
+---
+---
+---
+## Organization File: The Ravagers.md
+
+```yaml
+type: organization
+orgType: raider band
+alignment:
+base:
+tags:
+  - organization
+```
+
+# Description
+- Purpose: (Unknown)
+- Methods:
+  - Armed occupation or scavenging within dangerous ruins
+  - Violent resistance to intruders
+- Reputation: Hostile force encountered inside [[Shadebarrow]]
+
+---
+
+# Members
+- (Unnamed members)
+
+---
+
+# Allies
+- (Unknown)
+
+---
+
+# Enemies
+- [[Wayfarers Accord]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Encountered inside [[Shadebarrow]]
+- Defeated by the group after entry into the fortress grounds
+- Their exact motives and connection to the fortress remain unknown
+- May have been opportunists, squatters, or servants of a deeper threat *(uncertain)*
 
 ---
 ---

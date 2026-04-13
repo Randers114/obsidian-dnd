@@ -56,7 +56,6 @@ tags:
 ---
 
 # Notes
-- Captives have not yet been escorted to safety → quest still active
 - Camp was only a small part of [[Midnight Managerie]] *(confirmed)*
 - Further retaliation or remaining camps possible *(uncertain)*
 - The operation was part of a larger network under [[Midnight Managerie]]

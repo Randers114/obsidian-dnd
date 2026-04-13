@@ -3,6 +3,7 @@
 ## Index
 - Affyrimental
 - Cania
+- Kymal
 - Westruun
 - Emon
 - Gilmore’s Glorious Goods
@@ -14,12 +15,15 @@
 - Siegel
 - Silvercut Crossroads
 - Slaterock Tower
+- Stag and Flagon
 - Stillben Docks
 - Stillben
 - Suntree
+- Tallstack Farm
 - The Breezy Plateau
 - The Dust Vein Curio
 - The Emberpit forge
+- The Fleeting Pages
 - The Sable Note
 - The Sun's Delight
 - Thortil
@@ -106,6 +110,47 @@ tags:
 ---
 ---
 ---
+## Place File: Cities\Kymal.md
+
+```yaml
+type: place
+placeType: city
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: A city with gates, patrol routes, and enough infrastructure to organize a rapid alarm response
+- Atmosphere: Chaotic and frightened during the attack, then tense and investigative afterward
+- Notable features:
+  - Site of the first major coordinated attack
+  - Contains [[Stag and Flagon]] and [[The Fleeting Pages]]
+
+---
+
+# Important NPCs
+- [[Brynja Ironbrow]]
+- [[Bertim]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- First major campaign location
+- Attacked by coordinated forces involving abductions and a vampire-like leader
+- Some townsfolk were captured rather than killed
+- The attack led directly to the investigation of [[Tallstack Farm]]
+- The city serves as the starting point for the wider cult and Aether investigation
+
+---
+---
+---
 ## Place File: Cities\Westruun.md
 
 ```yaml
@@ -141,6 +186,9 @@ tags:
 - First time the city is ruled by a woman
 - Some discontent among the population
 - Serves as a knowledge hub via [[Cobalt Soul]]
+- After returning to [[Westruun]] before heading out to [[Shadebarrow]] the group encounters tension at the gates
+- The guards are checking entrants 
+- Some guards bearing the new mayor's symbol
 
 ---
 ---
@@ -204,12 +252,12 @@ tags:
 - Atmosphere: Welcoming and functional *(inferred from interaction)*
 - Notable features:
   - Sells travel and adventuring supplies
-  - Staffed by Daisy in the absence of the owner
+  - Staffed by [[Daisy]] in the absence of the owner
 
 ---
 
 # Important NPCs
-- Daisy (shop assistant)
+- [[Daisy]] (shop assistant)
 - (Gilmore – owner, not present)
 
 ---
@@ -224,7 +272,8 @@ tags:
 - Gilmore was not present during the visit
 - Likely a recurring shop for equipment and magical items *(inferred from name)*
 - Also has a location in [[Whitestone]]  
-- The group visited this branch while in the city
+- The group visited this branch while in the city  
+- The group used the shop for expedition prep in [[Westruun]] before heading to [[Shadebarrow]]
 
 ---
 ---
@@ -410,6 +459,7 @@ tags:
 - Notable features:
   - Said to be an old fortress of the betrayer gods
   - Known as a place people do not seem to return from
+  - Contains defaced divine imagery, abyssal inscriptions, and ritual barriers
 
 ---
 
@@ -429,6 +479,9 @@ tags:
 - Described as an old fortress of the betrayer gods
 - Considered highly dangerous
 - Future destination for the group
+- [[Nibs]] scouted the interior 
+- Members of [[The Ravagers]] were encountered and defeated 
+- [[Roland]] sacrificed his childhood holy symbol to proceed deeper
 
 ---
 ---
@@ -521,7 +574,72 @@ tags:
 
 ```yaml
 type: place
-placeType: tower
+placeType: tower / home base
+region:
+controlledBy: "[[Wayfarers Accord]]"
+tags:
+  - place
+  - homebase
+```
+
+# Description
+- Visual:
+  - A solitary tower used as a base of arcane study and experimentation
+  - Contains upper levels tied to portal mechanisms and prism-based magical systems
+  - Includes living and working space suitable for the group’s continued use
+- Atmosphere:
+  - Strange, arcane, and historically unstable
+  - More familiar and practical now that the group uses it as a base
+- Notable features:
+  - Former site of the Realmseer’s failed portal experiment
+  - Contains portal-linked trial spaces and prism mechanisms
+  - Served as the prison / containment site of [[Eskyld]]
+  - Place where [[C.H.A.R.L.E.S]] was found and freed
+  - Current home base of the [[Wayfarers Accord]]
+
+---
+
+# Important NPCs
+- [[Eskyld]]
+- [[Jekt]]
+- [[C.H.A.R.L.E.S]]
+- [[Hotesh]]
+
+---
+
+# Related Quests
+- [[Quest - Side - Disappearance of the Realmseer]]
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Originally introduced as the meeting point requested by [[Jekt]] during the investigation into the missing Realmseer
+- The tower appeared abandoned when the group first arrived, but contained a voice calling for help and a portal system at its summit
+- Three portals within the tower led to separate challenge spaces or trial environments
+- The group recovered multiple prisms from these spaces
+- [[Thaldrin]] died during the exploration of the portal trials
+- [[C.H.A.R.L.E.S]] was discovered imprisoned within the labyrinth-like portal system and was freed by the group
+- After the three prisms were combined in the tower, [[Eskyld]] was released from prism containment
+- [[Eskyld]] revealed that he had been trapped due to a failed portal experiment tied to his attempt to reach [[Siegel]]
+- After being rescued, [[Eskyld]] offered the group a place in [[Slaterock Tower]], and they accepted
+- The tower is now used by the group as a home base
+- The party returns here to regroup, recover, store items, and discuss what to do between quests
+- [[Eskyld]] continues his research and preparation here
+- The tower serves as the operational base for the group’s work on [[Quest - Main - Assist the Realmseer]]
+- [[Hotesh]] has also stayed here with the group after being freed
+- The tower now represents both:
+  - a site of past magical disaster
+  - and a place of safety, planning, and return for the party
+
+---
+---
+---
+## Place File: Stag and Flagon.md
+
+```yaml
+type: place
+placeType: tavern
 region:
 controlledBy:
 tags:
@@ -529,26 +647,33 @@ tags:
 ```
 
 # Description
-- Visual: (Unknown)
-- Atmosphere: (Unknown)
+- Visual: Busy tavern in [[Kymal]] that became a battlefield during the initial attack
+- Atmosphere: Social before the attack, chaotic and bloody during it, then tense in the aftermath
 - Notable features:
-  - Meeting place requested by [[Jekt]]
+  - Place where the party first came together
+  - Served as a temporary refuge after the attack
 
 ---
 
 # Important NPCs
-- [[Jekt]]
+- [[Kaelos]]
+- [[Roland]]
+- [[Thaldrin]]
+- [[Bertim]]
 
 ---
 
 # Related Quests
-- (Potential Realmseer investigation)
+- [[Quest - Main - Investigate the Umbral Attack]]
 
 ---
 
 # Notes
-- Location where [[Jekt]] asked to meet regarding the missing Realmseer
-- Not yet visited *(as of Session 5)*
+- Opening tavern location of the campaign
+- The party first met here as strangers before the attack forced them into action
+- Several patrons were killed in the fighting
+- The group later returned [[Bertim]] here after aiding him at [[The Fleeting Pages]]
+- Served as a base for questioning survivors and regrouping after the attack
 
 ---
 ---
@@ -686,6 +811,49 @@ tags:
 ---
 ---
 ---
+## Place File: Tallstack Farm.md
+
+```yaml
+type: place
+placeType: farm
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Damaged farm buildings and stables showing signs of panic and forced removal of livestock
+- Atmosphere: Somber, tense, and recovering after the attack
+- Notable features:
+  - Livestock theft site tied to the wider ritual investigation
+  - Markings appeared after the attack
+  - Tracks from the farm led north toward the forest
+
+---
+
+# Important NPCs
+- [[Mira]]
+- [[Joren]]
+- [[Elsa]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- Investigated by the group after the attack on [[Kymal]]
+- Livestock was taken while the family was left alive
+- The site contained cult-linked markings that appeared after the raid
+- Hidden tracks from the farm led the group toward the chapel investigation
+- Became an early clue that the enemy operation involved both ritual planning and deception
+
+---
+---
+---
 ## Place File: The Breezy Plateau.md
 
 ```yaml
@@ -794,6 +962,46 @@ tags:
 ---
 ---
 ---
+## Place File: The Fleeting Pages.md
+
+```yaml
+type: place
+placeType: bookstore
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Bookshop in [[Kymal]] targeted during the city attack
+- Atmosphere: Damaged and dangerous in the aftermath of the assault
+- Notable features:
+  - Contained or was believed to contain [[On the edge of the Abyss]]
+  - Central clue location in the opening investigation
+
+---
+
+# Important NPCs
+- [[Bertim]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- Bookstore in [[Kymal]]
+- Specifically targeted by the attackers during the opening assault
+- The attackers were searching for [[On the edge of the Abyss]]
+- [[Bertim]] revealed that he no longer possessed the book
+- Helped establish that the attack had a focused objective beyond random violence
+
+---
+---
+---
 ## Place File: The Sable Note.md
 
 ```yaml
@@ -878,10 +1086,11 @@ tags:
 ```
 
 # Description
-- Visual: (Unknown)
+- Visual: Corrupted landscape and dead trees around the Dawnfather chapel
 - Atmosphere: (Unknown)
 - Notable features:
   - Location where kidnapped people are being held *(per Kaelos' patron)*
+  - Site of hidden Aether production estate 
 
 ---
 
@@ -899,6 +1108,10 @@ tags:
 # Notes
 - Identified through information from [[Kaelos]]’ patron
 - Likely connected to the operations of the [[Sect of The Writhing Warden]] *(uncertain)*
+- Crypt beneath the chapel
+- Tomb of [[Saint Benna]] and recovered relics
+- Site of captive rescue 
+- Ties to both [[Sect of The Writhing Warden]] and [[The Umbral Abyss]]
 
 ---
 ---

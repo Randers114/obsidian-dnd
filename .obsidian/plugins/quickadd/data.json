@@ -43,7 +43,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Whispers of the Umbral Abyss/People"
+          "Whispers of the Umbral Abyss/People/Unsorted"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -73,7 +73,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Whispers of the Umbral Abyss/Locations"
+          "Whispers of the Umbral Abyss/Locations/Unsorted"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

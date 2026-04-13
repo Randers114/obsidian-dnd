@@ -2,7 +2,9 @@
 
 ## Index
 - Aldra
+- Bertim
 - Brynja Ironbrow
+- Daisy
 - Elsa
 - Eskyld
 - Esree
@@ -22,6 +24,7 @@
 - Maeve
 - Malvoria
 - Maren
+- Mavrik
 - Mira
 - Nibs
 - Riven Malakar
@@ -35,6 +38,7 @@
 - Theran
 - Valerya Noir
 - Ves
+- Warren Drassic
 - C.H.A.R.L.E.S
 - Kaelos
 - Roland
@@ -101,6 +105,65 @@ tags:
 ---
 ---
 ---
+## Person File: Bertim.md
+
+```yaml
+type: person
+race:
+gender:
+occupation: Bookseller
+organizations:
+locations:
+  - "[[The Fleeting Pages]]"
+  - "[[Kymal]]"
+status: alive
+tags:
+  - person
+```
+
+# Description
+- First impression: Injured but cooperative bookseller caught in the aftermath of the attack on [[Kymal]]
+- Appearance: Injured with a broken leg during the attack
+- Voice / mannerisms: Helpful but limited in what he knows *(inferred)*
+
+---
+
+# Motivation
+- Wants: To recover from the attack and protect his shop
+- Hides: (Unknown)
+
+---
+
+# Relationships
+## Allies
+- [[Brynja Ironbrow]]
+- [[Wayfarers Accord]]
+
+## Enemies
+- Attackers involved in the assault on [[Kymal]]
+
+---
+
+# Involvement
+## Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+## Sessions
+- Session 1
+
+---
+
+# Notes
+- Owner of [[The Fleeting Pages]] in [[Kymal]]
+- Was injured during the attack on the city
+- Revealed that the attackers were searching for [[On the edge of the Abyss]]
+- Described the book as an old tome about demons
+- No longer had the book when the attackers came looking for it
+- Was escorted back safely to [[Stag and Flagon]] by the group
+
+---
+---
+---
 ## Person File: Brynja Ironbrow.md
 
 ```yaml
@@ -156,6 +219,61 @@ tags:
 - Tasked the group with investigating the attacks
 - Connected city assault to farm disappearances
 - Identified [[Tallstack Farm]] as a key lead
+
+---
+---
+---
+## Person File: Daisy.md
+
+```yaml
+type: person
+race:
+gender:
+occupation: Shop assistant
+organizations:
+locations:
+  - "[[Gilmore’s Glorious Goods]]"
+  - "[[Westruun]]"
+status: alive
+tags:
+  - person
+```
+
+# Description
+- First impression: Friendly shop assistant managing the store in Gilmore’s absence
+- Appearance: (Not described)
+- Voice / mannerisms: (Not described)
+
+---
+
+# Motivation
+- Wants: To run the shop and assist customers
+- Hides: (Unknown)
+
+---
+
+# Relationships
+## Allies
+- Gilmore
+- [[Wayfarers Accord]]
+
+## Enemies
+- (Unknown)
+
+---
+
+# Involvement
+## Quests
+
+## Sessions
+- Session 4
+
+---
+
+# Notes
+- Met by the group at [[Gilmore’s Glorious Goods]] in [[Westruun]]
+- Gilmore was not present during the visit
+- Served as the staff contact for the shop during the group’s resupply stop
 
 ---
 ---
@@ -546,6 +664,9 @@ tags:
 
 ## Sessions
 - Session 20
+- Session 21
+- Session 22
+- Session 28
 
 ---
 
@@ -554,6 +675,9 @@ tags:
 - Previously held by [[Midnight Managerie]]
 - Agreed to travel with the group
 - Used as part of ambush plan
+- He remained with the group after being freed
+- Took up residence in [[Slaterock Tower]] as an associate of [[Wayfarers Accord]]
+- Is often the cook for the group whenever they return to [[Slaterock Tower]]
 
 ---
 ---
@@ -588,7 +712,7 @@ tags:
 
 # Relationships
 ## Allies
-- (Realmseer – missing)
+- [[Eskyld]]
 
 ## Enemies
 - (Unknown)
@@ -601,12 +725,14 @@ tags:
 
 ## Sessions
 - Session 5
+- Session 13
 
 ---
 
 # Notes
 - Posted a notice requesting help investigating the disappearance of the Realmseer
 - Asked to meet at [[Slaterock Tower]]
+- Realmseer disappearance was resolved when the group freed [[Eskyld]] from the prism construct in [[Slaterock Tower]]
 
 ---
 ---
@@ -977,7 +1103,7 @@ aliases:
 # Relationships
 ## Allies
 - [[Thassian]]
-- (Special Rifle Corps of Whitestone)
+- [[Special Rifle Corps of Whitestone]]
 
 ## Enemies
 - (Unknown)
@@ -1229,6 +1355,65 @@ tags:
 ---
 ---
 ---
+## Person File: Mavrik.md
+
+```yaml
+type: person
+race:
+gender:
+occupation: (Field agent / cult operative – inferred)
+organizations:
+  - "[[Sect of The Writhing Warden]]"
+locations:
+status:
+tags:
+  - person
+```
+
+# Description
+- First impression: Important cult operative named early in the investigation but not yet encountered directly
+- Appearance: (Unknown)
+- Voice / mannerisms: (Unknown)
+
+---
+
+# Motivation
+- Wants: To carry out cult instructions tied to sacrifice, Aether, and the Blood Moon ritual
+- Hides: Full role in the cult hierarchy
+
+---
+
+# Relationships
+## Allies
+- [[Riven Malakar]]
+- [[Zevrin]]
+- [[Sect of The Writhing Warden]]
+
+## Enemies
+- [[Wayfarers Accord]]
+
+---
+
+# Involvement
+## Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+## Sessions
+- Session 2
+- Session 3
+
+---
+
+# Notes
+- Named in the letter recovered during the chapel investigation
+- Received instructions tied to livestock sacrifice and Aether harvesting
+- Was directed to meet [[Zevrin]]
+- Appears to act below [[Riven Malakar]] in the cult structure *(inferred)*
+- Treated in the investigation as a real operational lead, but has not yet been directly confronted in the recorded sessions
+
+---
+---
+---
 ## Person File: Mira.md
 
 ```yaml
@@ -1446,6 +1631,8 @@ tags:
 
 ## Sessions
 - Session 23 (mentioned)
+- Session 24
+- Session 25
 
 ---
 
@@ -1456,6 +1643,8 @@ tags:
 - Drew an old woman with her father in the woods
 - Had a doll that smelled of withered petals
 - Tracks led away from her bedroom window
+- She was found in a trance at the top of the hollow tree beside [[Wilma]]
+- She was rescued and safely returned to [[Aldra]] in [[Whitestone]]
 
 ---
 ---
@@ -1560,6 +1749,7 @@ tags:
 
 ## Sessions
 - Session 20
+- Session 21
 
 ---
 
@@ -1568,6 +1758,9 @@ tags:
 - Participated in slave trade
 - Lost bidding war to [[Roland]] for [[Hotesh]]
 - Target of planned ambush
+- The group ambushed her after the auction 
+- She lost the [[Suntree Root]] to the group in the ambush 
+- She escaped the ambush via teleportation magic
 
 ---
 ---
@@ -1971,6 +2164,60 @@ tags:
 - Ledger was part of a debt to [[Lorant]]
 - Has access to the [[Greydawn Hall]] auction network
 - Likely operates within the criminal underworld *(inferred)*
+
+---
+---
+---
+## Person File: Warren Drassic.md
+
+```yaml
+type: person
+race:
+gender:
+occupation:
+organizations:
+locations:
+status: deceased
+tags:
+  - person
+```
+
+# Description
+- First impression: Unknown dead figure remembered by a monument near [[Thortil]]
+- Appearance: (Unknown)
+- Voice / mannerisms: (Unknown)
+
+---
+
+# Motivation
+- Wants: (Unknown)
+- Hides: (Unknown)
+
+---
+
+# Relationships
+## Allies
+- (Unknown)
+
+## Enemies
+- (Unknown)
+
+---
+
+# Involvement
+## Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+## Sessions
+- Session 5
+
+---
+
+# Notes
+- Known only through an obsidian pillar outside [[Thortil]]
+- The inscription read: “To the death of [[Warren Drassic]]”
+- The meaning of the monument and Warren Drassic’s identity remain unclear
+- May be historically important to [[Thortil]] or the corrupted chapel area *(uncertain)*
 
 ---
 ---

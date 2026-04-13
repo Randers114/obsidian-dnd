@@ -1,19 +1,35 @@
 ---
+type: place
+placeType: city
+region:
+controlledBy:
 tags:
-  - whispers_of_the_umbral_abyss
   - place
 ---
-name:: Kymal
-type:: #city 
-time:: First City the team meets 
-tags:: #kymal 
-short:: 
-location:: 
 
+# Description
+- Visual: A city with gates, patrol routes, and enough infrastructure to organize a rapid alarm response
+- Atmosphere: Chaotic and frightened during the attack, then tense and investigative afterward
+- Notable features:
+  - Site of the first major coordinated attack
+  - Contains [[Stag and Flagon]] and [[The Fleeting Pages]]
 
-# Description 
+---
 
-This is the first city where the team meets each other. 
+# Important NPCs
+- [[Brynja Ironbrow]]
+- [[Bertim]]
 
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
 
 # Notes
+- First major campaign location
+- Attacked by coordinated forces involving abductions and a vampire-like leader
+- Some townsfolk were captured rather than killed
+- The attack led directly to the investigation of [[Tallstack Farm]]
+- The city serves as the starting point for the wider cult and Aether investigation

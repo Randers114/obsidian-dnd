@@ -1,5 +1,5 @@
 ## Quests 
-- [x] Go to [[Westrun]] and investigate the amulets symbols and [[The Writhing Warden]] in the [[Cobalt Reserve]].
+- [x] Go to [[Westruun]] and investigate the amulets symbols and [[The Writhing Warden]] in the [[Cobalt Reserve]].
 - [x] Find concentrated Aether from the humans sacrifice south of Kymal in an abandoned city [[Thortil]].  
 - [x] Go to [[Slaterock Tower]] and help [[Jekt]] find the Realmseer
 - [ ] [[Eskyld]] wants help with finding the things he needed to get his experiment to succeed. 

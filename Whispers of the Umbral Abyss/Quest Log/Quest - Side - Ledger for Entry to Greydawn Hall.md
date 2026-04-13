@@ -7,7 +7,7 @@ assignedBy: "[[Ves]]"
 locations:
   - "[[Stillben Docks]]"
   - "[[Greydawn Hall]]"
-organization:
+organizations:
 tags:
   - quest
 ---

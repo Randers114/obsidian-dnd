@@ -1,5 +1,6 @@
 ---
 sessionNumber: 14
+type: session
 date: 2025-05-28
 people:
   - "[[Kaelos]]"

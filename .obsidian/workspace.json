@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d7bd3a7cf58dd3e2",
+        "id": "fb55d2302f0e1c33",
         "type": "tabs",
         "children": [
           {
-            "id": "e5450c9e8d70bb5c",
+            "id": "3f85b78e16fc91b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Misc/Templates/Session Template.md",
-                "mode": "source",
-                "source": false
+                "path": "Whispers of the Umbral Abyss/People/Antagonists"
               },
               "icon": "lucide-file",
-              "title": "Session Template"
+              "title": "Antagonists"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Serverus Assembly\"",
+                "query": "\"Seraphys \"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "1265d1536b993eb0",
+            "id": "9eed18bec7642219",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,11 +82,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 574.5
+    "width": 358.5
   },
   "right": {
     "id": "7732728b07b05fc6",
@@ -219,44 +218,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5450c9e8d70bb5c",
+  "active": "3f85b78e16fc91b9",
   "lastOpenFiles": [
-    "_Archives/Sessions Archive.md",
-    "_Archives/People Archive.md",
-    "_Archives/Places Archive.md",
-    "_Archives/Quests Archive.md",
-    "_Archives/Organizations Archive.md",
-    "Whispers of the Umbral Abyss/Sessions Archive old.md",
-    "Quest log Old.md",
-    "_Archives",
-    "build_archives.py",
-    "Ny Python Source File.py",
-    "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md",
-    "Whispers of the Umbral Abyss/Quest Log/Quest - Personal - Kaelos - Revenge Against the Midnight Managerie.md",
-    "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Investigate the Umbral Attack.md",
+    "Whispers of the Umbral Abyss/People/Antagonists/Riven Malakar.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
-    "Misc/Templates/Session Template.md",
     "Whispers of the Umbral Abyss/Sessions/Sessions.md",
-    "Whispers of the Umbral Abyss/Sessions/2024-09-19 - Attack of Kymal.md",
-    "build_session_archive.py",
-    "Whispers of the Umbral Abyss/People/People.md",
-    "Whispers of the Umbral Abyss/Organizations/Organizations.md",
-    "Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Ledger for Entry to Greydawn Hall.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md",
+    "Whispers of the Umbral Abyss/Information/Information.md",
+    "Whispers of the Umbral Abyss/Information",
+    "Whispers of the Umbral Abyss/Bases/Active Quests.base",
+    "Whispers of the Umbral Abyss/Bases/Quest Board.base",
     "Whispers of the Umbral Abyss/Bases/NPC Directory.base",
-    "Whispers of the Umbral Abyss/Sessions Old/2026-03-05 - The Myriad's Hideout in Turst Field.md",
-    "Whispers of the Umbral Abyss/Sessions Old/2024-09-19 - Attack of Kymal.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-03-19 - Keys to the Vault.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-03-12 - Into the Myriad Hideout.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-03-04 - Into the Cistern.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-02-05 - Audience at Whitestone.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-01-15 - The Hag in the Hollow Tree.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-01-08 - Dreams in the Mist.md",
-    "Whispers of the Umbral Abyss/Quest Log",
-    "Whispers of the Umbral Abyss/Sessions",
-    "Campains/Whispers of the Umbral Abyss",
-    "Campains",
-    "Whispers of the Umbral Abyss/Bases",
+    "Whispers of the Umbral Abyss/Bases/Quest Board.md",
+    "Whispers of the Umbral Abyss/Locations/Planes & Other Realms/Siegel.md",
+    "Whispers of the Umbral Abyss/Locations/Cobalt Reserve.md",
+    "Whispers of the Umbral Abyss/Locations/Unsorted/Unsorted.md",
+    "Whispers of the Umbral Abyss/Locations/Unsorted",
+    "Whispers of the Umbral Abyss/Locations/Planes & Other Realms/Planes & Other Realms.md",
+    "Whispers of the Umbral Abyss/Locations/Planes & Other Realms",
+    "Whispers of the Umbral Abyss/Locations/Wilderness/Wilderness.md",
+    "Whispers of the Umbral Abyss/Locations/Wilderness",
+    "Whispers of the Umbral Abyss/Locations/Buildings & Sites/Buildings & Sites.md",
+    "Whispers of the Umbral Abyss/Locations/Buildings & Sites",
+    "Whispers of the Umbral Abyss/Locations/Landmarks/Landmarks.md",
+    "Whispers of the Umbral Abyss/Locations/Landmarks",
+    "Whispers of the Umbral Abyss/Locations/Settlements/Settlements.md",
+    "Whispers of the Umbral Abyss/Locations/Settlements",
+    "Whispers of the Umbral Abyss/People/Antagonists/Severin.md",
+    "Whispers of the Umbral Abyss/People/Local Contacts/Garan.md",
+    "Whispers of the Umbral Abyss/People/Party/Hotesh.md",
+    "Whispers of the Umbral Abyss/People/People.md",
+    "Whispers of the Umbral Abyss/People/Local Contacts/Ves.md",
+    "Whispers of the Umbral Abyss/People/Unsorted/Warren Drassic.md",
+    "Whispers of the Umbral Abyss/People/Unsorted/Seraphys Thalrin.md",
+    "Whispers of the Umbral Abyss/Sessions/2025-03-13 - The Threefold Gate.md",
+    "_Archives/People Archive.md",
+    "Whispers of the Umbral Abyss/Locations/Buildings & Sites/Slaterock Tower.md",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
     "Misc/Files/Iceland/IMG20230305121652.jpg",

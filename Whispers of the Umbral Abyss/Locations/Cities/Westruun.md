@@ -31,3 +31,6 @@ tags:
 - First time the city is ruled by a woman
 - Some discontent among the population
 - Serves as a knowledge hub via [[Cobalt Soul]]
+- After returning to [[Westruun]] before heading out to [[Shadebarrow]] the group encounters tension at the gates
+- The guards are checking entrants 
+- Some guards bearing the new mayor's symbol

@@ -1,5 +1,6 @@
 ---
 sessionNumber: 28
+type: session
 date: 2026-03-19
 people:
   - "[[Kaelos]]"
