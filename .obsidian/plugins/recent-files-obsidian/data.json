@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Riven Malakar",
-      "path": "Whispers of the Umbral Abyss/People/Antagonists/Riven Malakar.md"
+      "basename": "People",
+      "path": "Whispers of the Umbral Abyss/People/People.md"
+    },
+    {
+      "basename": "Locations",
+      "path": "Whispers of the Umbral Abyss/Locations/Locations.md"
     },
     {
       "basename": "Quest Log",
       "path": "Whispers of the Umbral Abyss/Quest Log/Quest Log.md"
+    },
+    {
+      "basename": "Wayfarers Accord",
+      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Wayfarers Accord.md"
+    },
+    {
+      "basename": "Thaldrin",
+      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Thaldrin.md"
+    },
+    {
+      "basename": "Roland",
+      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Roland.md"
+    },
+    {
+      "basename": "Kaelos",
+      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Kaelos.md"
+    },
+    {
+      "basename": "C.H.A.R.L.E.S",
+      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/C.H.A.R.L.E.S.md"
+    },
+    {
+      "basename": "People Archive",
+      "path": "_Archives/People Archive.md"
+    },
+    {
+      "basename": "Riven Malakar",
+      "path": "Whispers of the Umbral Abyss/People/Antagonists/Riven Malakar.md"
     },
     {
       "basename": "Sessions",
@@ -53,10 +85,6 @@
       "path": "Whispers of the Umbral Abyss/People/Party/Hotesh.md"
     },
     {
-      "basename": "People",
-      "path": "Whispers of the Umbral Abyss/People/People.md"
-    },
-    {
       "basename": "Ves",
       "path": "Whispers of the Umbral Abyss/People/Local Contacts/Ves.md"
     },
@@ -71,10 +99,6 @@
     {
       "basename": "2025-03-13 - The Threefold Gate",
       "path": "Whispers of the Umbral Abyss/Sessions/2025-03-13 - The Threefold Gate.md"
-    },
-    {
-      "basename": "People Archive",
-      "path": "_Archives/People Archive.md"
     },
     {
       "basename": "Slaterock Tower",
@@ -175,30 +199,6 @@
     {
       "basename": "Open Threads",
       "path": "Whispers of the Umbral Abyss/Information/Open Threads.md"
-    },
-    {
-      "basename": "Open Threads full overview",
-      "path": "Whispers of the Umbral Abyss/Information/Open Threads full overview.md"
-    },
-    {
-      "basename": "Sessions Archive",
-      "path": "_Archives/Sessions Archive.md"
-    },
-    {
-      "basename": "Organizations Archive",
-      "path": "_Archives/Organizations Archive.md"
-    },
-    {
-      "basename": "Places Archive",
-      "path": "_Archives/Places Archive.md"
-    },
-    {
-      "basename": "Quests Archive",
-      "path": "_Archives/Quests Archive.md"
-    },
-    {
-      "basename": "2024-10-24 - Blood Moon Directive",
-      "path": "Whispers of the Umbral Abyss/Sessions/2024-10-24 - Blood Moon Directive.md"
     }
   ],
   "omittedPaths": [],

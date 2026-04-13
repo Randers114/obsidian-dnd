@@ -9,6 +9,7 @@ locations:
 status: imprisoned
 tags:
   - person
+  - supernatural
 aliases:
   - The Writhing Warden
   - Nefyracsus

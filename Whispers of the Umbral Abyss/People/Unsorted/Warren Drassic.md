@@ -8,6 +8,7 @@ locations:
 status: deceased
 tags:
   - person
+  - unsorted
 ---
 
 # Description

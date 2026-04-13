@@ -8,6 +8,7 @@ locations:
 status:
 tags:
   - person
+  - antagonists
 ---
 
 # Description

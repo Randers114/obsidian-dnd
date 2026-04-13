@@ -9,6 +9,7 @@ locations:
 status: deceased
 tags:
   - person
+  - supernatural
 ---
 
 # Description

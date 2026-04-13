@@ -9,6 +9,8 @@ status: alive
 tags:
   - person
   - pc
+  - wayfarers_accord
+  - party
 ---
 
 # Description

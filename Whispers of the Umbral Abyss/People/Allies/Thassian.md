@@ -9,6 +9,7 @@ locations:
 status: alive
 tags:
   - person
+  - allies
 ---
 
 # Description

@@ -10,6 +10,7 @@ locations:
 status:
 tags:
   - person
+  - faction_figures
 ---
 
 # Description

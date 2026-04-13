@@ -10,6 +10,7 @@ locations:
 status: alive
 tags:
   - person
+  - local_contacts
 ---
 
 # Description

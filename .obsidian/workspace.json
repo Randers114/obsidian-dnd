@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fb55d2302f0e1c33",
+        "id": "5823199cf1b80301",
         "type": "tabs",
         "children": [
           {
-            "id": "3f85b78e16fc91b9",
+            "id": "fe876894afc0e5e2",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Whispers of the Umbral Abyss/People/Antagonists"
+                "path": "Whispers of the Umbral Abyss/People"
               },
               "icon": "lucide-file",
-              "title": "Antagonists"
+              "title": "People"
             }
           }
         ]
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 314.5
   },
   "right": {
     "id": "7732728b07b05fc6",
@@ -218,10 +218,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f85b78e16fc91b9",
+  "active": "35d59548a2adb400",
   "lastOpenFiles": [
-    "Whispers of the Umbral Abyss/People/Antagonists/Riven Malakar.md",
+    "Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Whispers of the Umbral Abyss/People/People.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
+    "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Wayfarers Accord.md",
+    "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Thaldrin.md",
+    "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Roland.md",
+    "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Kaelos.md",
+    "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/C.H.A.R.L.E.S.md",
+    "add_people_folder_tags.py",
+    "Ny Python Source File.py",
+    "_Archives/People Archive.md",
+    "Whispers of the Umbral Abyss/People/Antagonists/Riven Malakar.md",
     "Whispers of the Umbral Abyss/Sessions/Sessions.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Ledger for Entry to Greydawn Hall.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md",
@@ -243,19 +253,9 @@
     "Whispers of the Umbral Abyss/Locations/Buildings & Sites/Buildings & Sites.md",
     "Whispers of the Umbral Abyss/Locations/Buildings & Sites",
     "Whispers of the Umbral Abyss/Locations/Landmarks/Landmarks.md",
-    "Whispers of the Umbral Abyss/Locations/Landmarks",
     "Whispers of the Umbral Abyss/Locations/Settlements/Settlements.md",
-    "Whispers of the Umbral Abyss/Locations/Settlements",
     "Whispers of the Umbral Abyss/People/Antagonists/Severin.md",
     "Whispers of the Umbral Abyss/People/Local Contacts/Garan.md",
-    "Whispers of the Umbral Abyss/People/Party/Hotesh.md",
-    "Whispers of the Umbral Abyss/People/People.md",
-    "Whispers of the Umbral Abyss/People/Local Contacts/Ves.md",
-    "Whispers of the Umbral Abyss/People/Unsorted/Warren Drassic.md",
-    "Whispers of the Umbral Abyss/People/Unsorted/Seraphys Thalrin.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-03-13 - The Threefold Gate.md",
-    "_Archives/People Archive.md",
-    "Whispers of the Umbral Abyss/Locations/Buildings & Sites/Slaterock Tower.md",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
     "Misc/Files/Iceland/IMG20230305121652.jpg",

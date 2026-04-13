@@ -9,6 +9,7 @@ locations:
 status:
 tags:
   - person
+  - local_contacts
 ---
 
 # Description

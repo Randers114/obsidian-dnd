@@ -9,6 +9,8 @@ status: deceased
 tags:
   - person
   - pc
+  - wayfarers_accord
+  - party
 ---
 
 # Description

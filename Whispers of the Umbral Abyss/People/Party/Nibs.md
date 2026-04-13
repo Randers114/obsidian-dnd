@@ -8,6 +8,7 @@ locations:
 status: alive
 tags:
   - person
+  - party
 ---
 
 # Description
