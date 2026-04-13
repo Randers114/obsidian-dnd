@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54941eadabf1bf3b",
+        "id": "d7bd3a7cf58dd3e2",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8c47a2def4516c",
+            "id": "e5450c9e8d70bb5c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Whispers of the Umbral Abyss/People"
+                "file": "Misc/Templates/Session Template.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "People"
+              "title": "Session Template"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "fe8d26f58ae099a4",
+            "id": "1265d1536b993eb0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,14 +219,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a8c47a2def4516c",
+  "active": "e5450c9e8d70bb5c",
   "lastOpenFiles": [
+    "_Archives/Sessions Archive.md",
+    "_Archives/People Archive.md",
+    "_Archives/Places Archive.md",
+    "_Archives/Quests Archive.md",
+    "_Archives/Organizations Archive.md",
+    "Whispers of the Umbral Abyss/Sessions Archive old.md",
+    "Quest log Old.md",
+    "_Archives",
+    "build_archives.py",
+    "Ny Python Source File.py",
+    "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest - Personal - Kaelos - Revenge Against the Midnight Managerie.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Investigate the Umbral Attack.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
+    "Misc/Templates/Session Template.md",
+    "Whispers of the Umbral Abyss/Sessions/Sessions.md",
+    "Whispers of the Umbral Abyss/Sessions/2024-09-19 - Attack of Kymal.md",
+    "build_session_archive.py",
     "Whispers of the Umbral Abyss/People/People.md",
     "Whispers of the Umbral Abyss/Organizations/Organizations.md",
     "Whispers of the Umbral Abyss/Locations/Locations.md",
-    "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
     "Whispers of the Umbral Abyss/Bases/NPC Directory.base",
-    "Misc/Templates/Session Template.md",
     "Whispers of the Umbral Abyss/Sessions Old/2026-03-05 - The Myriad's Hideout in Turst Field.md",
     "Whispers of the Umbral Abyss/Sessions Old/2024-09-19 - Attack of Kymal.md",
     "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md",
@@ -235,27 +252,11 @@
     "Whispers of the Umbral Abyss/Sessions/2026-02-05 - Audience at Whitestone.md",
     "Whispers of the Umbral Abyss/Sessions/2026-01-15 - The Hag in the Hollow Tree.md",
     "Whispers of the Umbral Abyss/Sessions/2026-01-08 - Dreams in the Mist.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-12-04 - Echoes of the Monastery.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-11-27 - Ambush and Aftermath.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-10-16 - The Price of Freedom.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-10-09 - Invitation to the Auction.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-07-10 - Roots and Ledgers.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-07-03 - Whispers and Ledgers.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-06-19 - Shadows of Stillben.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-06-12 - Chains Broken, Paths Ahead.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-05-28 - Shadows of the Menagerie.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-04-10 - Fragments of the Multiverse.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-04-03 - The Threefold Convergence.md",
-    "Whispers of the Umbral Abyss/Sessions/2025-03-27 - Fractured Paths - Thaldrin death.md",
     "Whispers of the Umbral Abyss/Quest Log",
     "Whispers of the Umbral Abyss/Sessions",
     "Campains/Whispers of the Umbral Abyss",
     "Campains",
     "Whispers of the Umbral Abyss/Bases",
-    "gemini-scribe/example-prompts.json",
-    "gemini-scribe/Agent-Sessions",
-    "gemini-scribe/Prompts",
-    "gemini-scribe/skills",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
     "Misc/Files/Iceland/IMG20230305121652.jpg",

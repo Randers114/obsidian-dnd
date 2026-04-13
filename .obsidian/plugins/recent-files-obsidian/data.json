@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Session Template",
+      "path": "Misc/Templates/Session Template.md"
+    },
+    {
+      "basename": "Sessions Archive",
+      "path": "_Archives/Sessions Archive.md"
+    },
+    {
+      "basename": "People Archive",
+      "path": "_Archives/People Archive.md"
+    },
+    {
+      "basename": "Places Archive",
+      "path": "_Archives/Places Archive.md"
+    },
+    {
+      "basename": "Quests Archive",
+      "path": "_Archives/Quests Archive.md"
+    },
+    {
+      "basename": "Organizations Archive",
+      "path": "_Archives/Organizations Archive.md"
+    },
+    {
+      "basename": "Sessions Archive old",
+      "path": "Whispers of the Umbral Abyss/Sessions Archive old.md"
+    },
+    {
+      "basename": "Quest log Old",
+      "path": "Quest log Old.md"
+    },
+    {
+      "basename": "Quest - Side - Esree’s Thieves Problem",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md"
+    },
+    {
+      "basename": "Quest - Personal - Kaelos - Revenge Against the Midnight Managerie",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Personal - Kaelos - Revenge Against the Midnight Managerie.md"
+    },
+    {
+      "basename": "Quest - Main - Investigate the Umbral Attack",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Investigate the Umbral Attack.md"
+    },
+    {
+      "basename": "Quest Log",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest Log.md"
+    },
+    {
+      "basename": "Sessions",
+      "path": "Whispers of the Umbral Abyss/Sessions/Sessions.md"
+    },
+    {
+      "basename": "2024-09-19 - Attack of Kymal",
+      "path": "Whispers of the Umbral Abyss/Sessions/2024-09-19 - Attack of Kymal.md"
+    },
+    {
       "basename": "People",
       "path": "Whispers of the Umbral Abyss/People/People.md"
     },
@@ -13,16 +69,8 @@
       "path": "Whispers of the Umbral Abyss/Locations/Locations.md"
     },
     {
-      "basename": "Quest Log",
-      "path": "Whispers of the Umbral Abyss/Quest Log/Quest Log.md"
-    },
-    {
       "basename": "NPC Directory",
       "path": "Whispers of the Umbral Abyss/Bases/NPC Directory.base"
-    },
-    {
-      "basename": "Session Template",
-      "path": "Misc/Templates/Session Template.md"
     },
     {
       "basename": "2026-03-26 - Doors of Shadebarrow",
@@ -113,10 +161,6 @@
       "path": "Whispers of the Umbral Abyss/Sessions/2025-02-06 - The Aether Architect.md"
     },
     {
-      "basename": "Sessions",
-      "path": "Whispers of the Umbral Abyss/Sessions/Sessions.md"
-    },
-    {
       "basename": "2025-01-23 - Breaking the Chains",
       "path": "Whispers of the Umbral Abyss/Sessions/2025-01-23 - Breaking the Chains.md"
     },
@@ -141,10 +185,6 @@
       "path": "Whispers of the Umbral Abyss/Sessions/2024-10-17 - Tallstack farm and the Stolen livestock.md"
     },
     {
-      "basename": "2024-09-19 - Attack of Kymal",
-      "path": "Whispers of the Umbral Abyss/Sessions/2024-09-19 - Attack of Kymal.md"
-    },
-    {
       "basename": "Nibs",
       "path": "Whispers of the Umbral Abyss/People/Nibs.md"
     },
@@ -159,42 +199,6 @@
     {
       "basename": "Shadebarrow",
       "path": "Whispers of the Umbral Abyss/Locations/Shadebarrow.md"
-    },
-    {
-      "basename": "Gwen",
-      "path": "Whispers of the Umbral Abyss/People/Gwen.md"
-    },
-    {
-      "basename": "Emon",
-      "path": "Whispers of the Umbral Abyss/Locations/Emon.md"
-    },
-    {
-      "basename": "The Myriad",
-      "path": "Whispers of the Umbral Abyss/Organizations/The Myriad.md"
-    },
-    {
-      "basename": "Quest - Side - Recover the Residium Shipment",
-      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Recover the Residium Shipment.md"
-    },
-    {
-      "basename": "C.H.A.R.L.E.S",
-      "path": "Whispers of the Umbral Abyss/People/Wayfarers Accord/C.H.A.R.L.E.S.md"
-    },
-    {
-      "basename": "Quest - Personal - C.H.A.R.L.E.S - Repair the Gun",
-      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Personal - C.H.A.R.L.E.S - Repair the Gun.md"
-    },
-    {
-      "basename": "Turst Field",
-      "path": "Whispers of the Umbral Abyss/Locations/Turst Field.md"
-    },
-    {
-      "basename": "Lord Darolo",
-      "path": "Whispers of the Umbral Abyss/People/Lord Darolo.md"
-    },
-    {
-      "basename": "The Writhing Warden",
-      "path": "Whispers of the Umbral Abyss/People/The Writhing Warden.md"
     }
   ],
   "omittedPaths": [],

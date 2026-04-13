@@ -62,7 +62,9 @@
     "//Whispers of the Umbral Abyss",
     "//Misc/Misc/Scripts",
     "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions Old",
-    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions"
+    "//Misc",
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Quest Log",
+    "//_Archives"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",

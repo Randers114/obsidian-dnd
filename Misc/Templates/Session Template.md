@@ -1,5 +1,6 @@
 ---
 sessionNumber:
+type: session
 date: <% tp.date.now("YYYY-MM-DD") %>
 people:
   - "[[Kaelos]]"
