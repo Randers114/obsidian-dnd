@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Whispers of the Umbral Abyss/People"
+                "path": "Whispers of the Umbral Abyss/Sessions"
               },
               "icon": "lucide-file",
-              "title": "People"
+              "title": "Sessions"
             }
           }
         ]
@@ -218,10 +218,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35d59548a2adb400",
+  "active": "1829f6b7472ce6dd",
   "lastOpenFiles": [
-    "Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Whispers of the Umbral Abyss/Sessions/Sessions.md",
     "Whispers of the Umbral Abyss/People/People.md",
+    "Whispers of the Umbral Abyss/Locations/Locations.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
     "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Wayfarers Accord.md",
     "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Thaldrin.md",
@@ -232,7 +233,6 @@
     "Ny Python Source File.py",
     "_Archives/People Archive.md",
     "Whispers of the Umbral Abyss/People/Antagonists/Riven Malakar.md",
-    "Whispers of the Umbral Abyss/Sessions/Sessions.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Ledger for Entry to Greydawn Hall.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md",
