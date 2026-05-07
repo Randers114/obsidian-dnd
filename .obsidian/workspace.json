@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe876894afc0e5e2",
+            "id": "9b542ba8b01888a9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Whispers of the Umbral Abyss/Sessions"
+                "file": "Whispers of the Umbral Abyss/Sessions/2026-04-16 - The Price of Passage.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Sessions"
+              "title": "2026-04-16 - The Price of Passage"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "9eed18bec7642219",
+            "id": "6f7c64ef949bf7b0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -218,15 +220,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1829f6b7472ce6dd",
+  "active": "9b542ba8b01888a9",
   "lastOpenFiles": [
-    "Whispers of the Umbral Abyss/Sessions/Sessions.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md",
     "Whispers of the Umbral Abyss/People/People.md",
-    "Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-04-16 - The Price of Passage.md",
+    "Whispers of the Umbral Abyss/Sessions/Sessions.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
+    "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md",
+    "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Roland.md",
+    "Whispers of the Umbral Abyss/Organizations/Organizations.md",
+    "Whispers of the Umbral Abyss/Locations/Locations.md",
+    "Whispers of the Umbral Abyss/Organizations/The Ravagers.md",
+    "Misc/Templates/Session Template.md",
+    "_Archives/Sessions Archive.md",
+    "Spaces/#reference",
+    "Spaces/#open-threads",
+    "Spaces/#campaign",
     "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Wayfarers Accord.md",
     "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Thaldrin.md",
-    "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Roland.md",
     "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Kaelos.md",
     "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/C.H.A.R.L.E.S.md",
     "add_people_folder_tags.py",
@@ -235,7 +247,6 @@
     "Whispers of the Umbral Abyss/People/Antagonists/Riven Malakar.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Ledger for Entry to Greydawn Hall.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md",
-    "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md",
     "Whispers of the Umbral Abyss/Information/Information.md",
     "Whispers of the Umbral Abyss/Information",
     "Whispers of the Umbral Abyss/Bases/Active Quests.base",
@@ -247,15 +258,6 @@
     "Whispers of the Umbral Abyss/Locations/Unsorted/Unsorted.md",
     "Whispers of the Umbral Abyss/Locations/Unsorted",
     "Whispers of the Umbral Abyss/Locations/Planes & Other Realms/Planes & Other Realms.md",
-    "Whispers of the Umbral Abyss/Locations/Planes & Other Realms",
-    "Whispers of the Umbral Abyss/Locations/Wilderness/Wilderness.md",
-    "Whispers of the Umbral Abyss/Locations/Wilderness",
-    "Whispers of the Umbral Abyss/Locations/Buildings & Sites/Buildings & Sites.md",
-    "Whispers of the Umbral Abyss/Locations/Buildings & Sites",
-    "Whispers of the Umbral Abyss/Locations/Landmarks/Landmarks.md",
-    "Whispers of the Umbral Abyss/Locations/Settlements/Settlements.md",
-    "Whispers of the Umbral Abyss/People/Antagonists/Severin.md",
-    "Whispers of the Umbral Abyss/People/Local Contacts/Garan.md",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
     "Misc/Files/Iceland/IMG20230305121652.jpg",

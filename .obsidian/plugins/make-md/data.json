@@ -59,11 +59,11 @@
     "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/People",
     "//Campains",
     "//Spaces",
-    "//Whispers of the Umbral Abyss",
     "//Misc/Misc/Scripts",
     "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions Old",
-    "//_Archives",
-    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions"
+    "//Whispers of the Umbral Abyss",
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/Sessions",
+    "//Whispers of the Umbral Abyss/Whispers of the Umbral Abyss/People"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",

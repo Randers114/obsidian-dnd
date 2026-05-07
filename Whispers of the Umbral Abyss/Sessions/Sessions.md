@@ -1,4 +1,3 @@
-# Sessions
 
 > [!info] Session Summary
 > ```dataview

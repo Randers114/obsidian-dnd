@@ -28,6 +28,7 @@ tags:
 - His goal is to open a portal to [[Siegel]], a central point in the multiverse
 - He requires three rare and controversial components to complete the experiment
 - His previous organization, [[Arcana Pansophical]], rejected his work
+- We need ask [[Eskyld]] about the reason we keep encountering people holding the symbol of the [[Luxon]]. 
 
 ---
 

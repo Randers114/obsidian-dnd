@@ -35,7 +35,7 @@ tags:
 ---
 
 ## 🧾 Quests Updated
-- [[Quest - ]]
+- 
 
 ---
 

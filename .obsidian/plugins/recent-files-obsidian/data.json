@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Sessions",
-      "path": "Whispers of the Umbral Abyss/Sessions/Sessions.md"
+      "basename": "2026-04-16 - The Price of Passage",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-04-16 - The Price of Passage.md"
+    },
+    {
+      "basename": "2026-03-26 - Doors of Shadebarrow",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md"
     },
     {
       "basename": "People",
       "path": "Whispers of the Umbral Abyss/People/People.md"
     },
     {
-      "basename": "Locations",
-      "path": "Whispers of the Umbral Abyss/Locations/Locations.md"
+      "basename": "Sessions",
+      "path": "Whispers of the Umbral Abyss/Sessions/Sessions.md"
     },
     {
       "basename": "Quest Log",
       "path": "Whispers of the Umbral Abyss/Quest Log/Quest Log.md"
+    },
+    {
+      "basename": "Quest - Main - Assist the Realmseer",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md"
+    },
+    {
+      "basename": "Roland",
+      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Roland.md"
+    },
+    {
+      "basename": "Organizations",
+      "path": "Whispers of the Umbral Abyss/Organizations/Organizations.md"
+    },
+    {
+      "basename": "Locations",
+      "path": "Whispers of the Umbral Abyss/Locations/Locations.md"
+    },
+    {
+      "basename": "The Ravagers",
+      "path": "Whispers of the Umbral Abyss/Organizations/The Ravagers.md"
+    },
+    {
+      "basename": "Session Template",
+      "path": "Misc/Templates/Session Template.md"
+    },
+    {
+      "basename": "Sessions Archive",
+      "path": "_Archives/Sessions Archive.md"
     },
     {
       "basename": "Wayfarers Accord",
@@ -23,10 +55,6 @@
     {
       "basename": "Thaldrin",
       "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Thaldrin.md"
-    },
-    {
-      "basename": "Roland",
-      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Roland.md"
     },
     {
       "basename": "Kaelos",
@@ -51,10 +79,6 @@
     {
       "basename": "Quest - Side - Esree’s Thieves Problem",
       "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Esree’s Thieves Problem.md"
-    },
-    {
-      "basename": "Quest - Main - Assist the Realmseer",
-      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md"
     },
     {
       "basename": "Active Quests",
@@ -161,10 +185,6 @@
       "path": "Whispers of the Umbral Abyss/Organizations/Special Rifle Corps of Whitestone.md"
     },
     {
-      "basename": "The Ravagers",
-      "path": "Whispers of the Umbral Abyss/Organizations/The Ravagers.md"
-    },
-    {
       "basename": "Cobalt Soul",
       "path": "Whispers of the Umbral Abyss/Organizations/Cobalt Soul.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Bertim",
       "path": "Whispers of the Umbral Abyss/People/Local Contacts/Bertim.md"
-    },
-    {
-      "basename": "Quest - Side - Kidnappings in the Mountains",
-      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Side - Kidnappings in the Mountains.md"
-    },
-    {
-      "basename": "2025-06-12 - Chains Broken, Paths Ahead",
-      "path": "Whispers of the Umbral Abyss/Sessions/2025-06-12 - Chains Broken, Paths Ahead.md"
-    },
-    {
-      "basename": "2025-06-19 - Shadows of Stillben",
-      "path": "Whispers of the Umbral Abyss/Sessions/2025-06-19 - Shadows of Stillben.md"
-    },
-    {
-      "basename": "2025-05-28 - Shadows of the Menagerie",
-      "path": "Whispers of the Umbral Abyss/Sessions/2025-05-28 - Shadows of the Menagerie.md"
-    },
-    {
-      "basename": "Open Threads",
-      "path": "Whispers of the Umbral Abyss/Information/Open Threads.md"
     }
   ],
   "omittedPaths": [],
