@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whispers of the Umbral Abyss/Sessions/2026-04-16 - The Price of Passage.md",
+                "file": "Whispers of the Umbral Abyss/Sessions/2026-05-07 - .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-16 - The Price of Passage"
+              "title": "2026-05-07 -"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "right": {
     "id": "7732728b07b05fc6",
@@ -222,9 +223,12 @@
   },
   "active": "9b542ba8b01888a9",
   "lastOpenFiles": [
+    "Abyssal Plane.md",
+    "Whispers of the Umbral Abyss/Sessions/2026-05-07 - .md",
+    "Whispers of the Umbral Abyss/Sessions/2026-04-16 - The Price of Passage.md",
+    "Whispers of the Umbral Abyss/Sessions/Untitled.md",
     "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md",
     "Whispers of the Umbral Abyss/People/People.md",
-    "Whispers of the Umbral Abyss/Sessions/2026-04-16 - The Price of Passage.md",
     "Whispers of the Umbral Abyss/Sessions/Sessions.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest Log.md",
     "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md",
@@ -254,10 +258,7 @@
     "Whispers of the Umbral Abyss/Bases/NPC Directory.base",
     "Whispers of the Umbral Abyss/Bases/Quest Board.md",
     "Whispers of the Umbral Abyss/Locations/Planes & Other Realms/Siegel.md",
-    "Whispers of the Umbral Abyss/Locations/Cobalt Reserve.md",
-    "Whispers of the Umbral Abyss/Locations/Unsorted/Unsorted.md",
     "Whispers of the Umbral Abyss/Locations/Unsorted",
-    "Whispers of the Umbral Abyss/Locations/Planes & Other Realms/Planes & Other Realms.md",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.png",
     "Campains/Call of the Netherdeep/Files/Xhorhas_map.webp",
     "Misc/Files/Iceland/IMG20230305121652.jpg",
