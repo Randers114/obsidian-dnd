@@ -1,242 +1,41 @@
 # Places Archive — Whispers of the Umbral Abyss
 
 ## Index
-- Affyrimental
-- Cania
-- Kymal
-- Westruun
-- Emon
 - Gilmore’s Glorious Goods
 - Greydawn Hall
-- Plane of Air
 - Sephrah Monastery
-- Sephrah
-- Shadebarrow
-- Siegel
-- Silvercut Crossroads
 - Slaterock Tower
 - Stag and Flagon
 - Stillben Docks
-- Stillben
-- Suntree
-- Tallstack Farm
 - The Breezy Plateau
 - The Dust Vein Curio
 - The Emberpit forge
 - The Fleeting Pages
 - The Sable Note
 - The Sun's Delight
-- Thortil
-- Turst Field
-- Whitestone Woods
+- Emon
+- Kymal
+- Stillben
+- Westruun
 - Whitestone
+- Shadebarrow
+- Suntree
+- Thortil
+- Affyrimental
+- Cania
+- Plane of Air
+- Siegel
+- Sephrah
+- Silvercut Crossroads
+- Turst Field
+- Abyssal Plane
+- Basosaan
+- Tallstack Farm
+- Whitestone Woods
 
 ---
 
-## Place File: Affyrimental.md
-
-```yaml
-type: place
-placeType: prison / magical confinement
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: (Unknown)
-- Atmosphere: Ancient, sealed, and severe *(inferred)*
-- Notable features:
-  - Said to be a prison meant to hold a powerful being forever
-
----
-
-# Important NPCs
-- [[Nefyracsus]]
-
----
-
-# Related Quests
-- [[Quest - Main - Assist the Realmseer]]
-
----
-
-# Notes
-- Mentioned by [[The Dawnfather]] in [[Roland]]’s dream
-- Described as the prison where [[Nefyracsus]] was bound for eternity
-- Exact nature and location unknown
-- Likely a place of immense magical significance *(inferred)*
-
----
----
----
-## Place File: Cania.md
-
-```yaml
-type: place
-placeType: plane (layer of Hell)
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: A frozen and inhospitable landscape *(inferred from association with ice fiend)*
-- Atmosphere: Cold, oppressive, and hostile *(inferred)*
-- Notable features:
-  - Identified as the **ninth layer of Hell**
-  - Domain of [[Malvoria]]
-
----
-
-# Important NPCs
-- [[Malvoria]]
-
----
-
-# Related Quests
-- [[Quest - Personal - Kaelos - Aether Retrieval]]
-
----
-
-# Notes
-- Referenced as the origin of [[Malvoria]]
-- Associated with infernal power and influence
-- Not directly visited *(as of current sessions)*
-- Likely not a physical location accessible by normal means *(uncertain)*
-
----
----
----
-## Place File: Cities\Kymal.md
-
-```yaml
-type: place
-placeType: city
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: A city with gates, patrol routes, and enough infrastructure to organize a rapid alarm response
-- Atmosphere: Chaotic and frightened during the attack, then tense and investigative afterward
-- Notable features:
-  - Site of the first major coordinated attack
-  - Contains [[Stag and Flagon]] and [[The Fleeting Pages]]
-
----
-
-# Important NPCs
-- [[Brynja Ironbrow]]
-- [[Bertim]]
-
----
-
-# Related Quests
-- [[Quest - Main - Investigate the Umbral Attack]]
-
----
-
-# Notes
-- First major campaign location
-- Attacked by coordinated forces involving abductions and a vampire-like leader
-- Some townsfolk were captured rather than killed
-- The attack led directly to the investigation of [[Tallstack Farm]]
-- The city serves as the starting point for the wider cult and Aether investigation
-
----
----
----
-## Place File: Cities\Westruun.md
-
-```yaml
-type: place
-placeType: city
-region:
-controlledBy: "[[Lady Cerafis Thaldrin]]"
-tags:
-  - place
-```
-
-# Description
-- Visual: Large, active city with trade and political presence *(inferred)*
-- Atmosphere: Slight unrest and tension following leadership change
-- Notable features:
-  - Presence of [[Cobalt Soul]]
-  - Shops such as [[Gilmore’s Glorious Goods]]
-
----
-
-# Important NPCs
-- [[Lady Cerafis Thaldrin]]
-
----
-
-# Related Quests
-- [[Quest - Main - Investigate the Umbral Attack]]
-
----
-
-# Notes
-- Recently appointed new leader: [[Lady Cerafis Thaldrin]]
-- First time the city is ruled by a woman
-- Some discontent among the population
-- Serves as a knowledge hub via [[Cobalt Soul]]
-- After returning to [[Westruun]] before heading out to [[Shadebarrow]] the group encounters tension at the gates
-- The guards are checking entrants 
-- Some guards bearing the new mayor's symbol
-
----
----
----
-## Place File: Emon.md
-
-```yaml
-type: place
-placeType: city
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: (Unknown)
-- Atmosphere: (Unknown)
-- Notable features:
-  - Identified as main base of [[Midnight Managerie]]
-  - Also connected to a [[The Myriad]] department
-
----
-
-# Important NPCs
-- [[Valerya Noir]]
-- (Unknown leaders of [[The Myriad]])
-
----
-
-# Related Quests
-- [[Quest - Personal - Kaelos - Revenge Against the Midnight Managerie]]
-- [[Quest - Side - Destroy the Midnight Managerie Base in Emon]]
-- [[Quest - Side - Recover the Residium Shipment]]
-
----
-
-# Notes
-- Major hub of [[Midnight Managerie]]
-- Potential future destination
-- The main base of [[Midnight Managerie]] is said to be here
-- [[Gwen]] identified the crest on the Residium order as belonging to a [[The Myriad]] department in the city
-- Appears to be an important center for multiple major factions
-
----
----
----
-## Place File: Gilmore’s Glorious Goods.md
+## Place File: Buildings & Sites/Gilmore’s Glorious Goods.md
 
 ```yaml
 type: place
@@ -278,7 +77,7 @@ tags:
 ---
 ---
 ---
-## Place File: Greydawn Hall.md
+## Place File: Buildings & Sites/Greydawn Hall.md
 
 ```yaml
 type: place
@@ -316,45 +115,7 @@ tags:
 ---
 ---
 ---
-## Place File: Plane of Air.md
-
-```yaml
-type: place
-placeType: plane
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: Vast open skies filled with clouds and wind *(inferred)*
-- Atmosphere: Chaotic and constantly shifting *(inferred)*
-- Notable features:
-  - Domain of elemental air beings
-  - Connected to the Material Plane via portals
-
----
-
-# Important NPCs
-- (Unknown)
-
----
-
-# Related Quests
-- [[Quest - Side - Elemental Disturbances in Sephrah]]
-
----
-
-# Notes
-- Source of recent elemental disturbances near [[Sephrah]]
-- Increasing activity suggests instability or disruption *(uncertain)*
-- Likely connected to planar imbalance *(uncertain)*
-
----
----
----
-## Place File: Sephrah Monastery.md
+## Place File: Buildings & Sites/Sephrah Monastery.md
 
 ```yaml
 type: place
@@ -400,177 +161,7 @@ tags:
 ---
 ---
 ---
-## Place File: Sephrah.md
-
-```yaml
-type: place
-placeType: (settlement)
-region:
-controlledBy: (Air Ashari)
-tags:
-  - place
-```
-
-# Description
-- Visual: (Unknown)
-- Atmosphere: (Unknown)
-- Notable features:
-  - Home of the Air Ashari
-
----
-
-# Important NPCs
-- (Air Ashari – unnamed)
-
----
-
-# Related Quests
-- [[Quest - Main - Investigate the Umbral Attack]]
-
----
-
-# Notes
-- Recommended destination by [[Brynja Ironbrow]]
-- Suggested as a place to gain knowledge about Aether or related phenomena *(uncertain)*
-- Likely connected to elemental or planar balance *(inferred)*
-- Location reached via teleportation from [[Eskyld]]  
-- Contains a monastery and mountain settlement  
-- Nearby region experiencing kidnappings of Genasi  
-- Roughly one day’s travel from [[Stillben]]
-- The group departed from here after resolving the elemental disturbance
-
----
----
----
-## Place File: Shadebarrow.md
-
-```yaml
-type: place
-placeType: fortress / ruin
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: (Unknown)
-- Atmosphere: Ominous and dangerous
-- Notable features:
-  - Said to be an old fortress of the betrayer gods
-  - Known as a place people do not seem to return from
-  - Contains defaced divine imagery, abyssal inscriptions, and ritual barriers
-
----
-
-# Important NPCs
-- (Unknown)
-
----
-
-# Related Quests
-- [[Quest - Main - Assist the Realmseer]]
-
----
-
-# Notes
-- Believed to hold the **Divine Tear**
-- Identified by [[Eskyld]] as the location of the final missing ingredient for his portal experiment
-- Described as an old fortress of the betrayer gods
-- Considered highly dangerous
-- Future destination for the group
-- [[Nibs]] scouted the interior 
-- Members of [[The Ravagers]] were encountered and defeated 
-- [[Roland]] sacrificed his childhood holy symbol to proceed deeper
-
----
----
----
-## Place File: Siegel.md
-
-```yaml
-type: place
-placeType: planar hub
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: (Unknown)
-- Atmosphere: (Unknown)
-- Notable features:
-  - Described as a central point of the multiverse
-  - Said to contain people from many different realms
-
----
-
-# Important NPCs
-- (Unknown)
-
----
-
-# Related Quests
-- [[Quest - Main - Assist the Realmseer]]
-
----
-
-# Notes
-- Target destination of [[Eskyld]]’s experiment
-- Likely a major crossroads between worlds *(inferred)*
-- Not yet visited
-
----
----
----
-## Place File: Silvercut Crossroads.md
-
-```yaml
-type: place
-placeType: crossroads / ruins
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: Ruined settlement centered around a monument, surrounded by abandoned houses
-- Atmosphere: Eerie, quiet, and unsettling
-- Notable features:
-  - Central monument with inscription about justice and the innocent dead
-  - Ruined houses with signs of decay
-  - Hidden crypt beneath one of the houses
-  - Presence of undead and restless spirits
-
----
-
-# Important NPCs
-- [[Zevrin]] *(mentioned as being here)*
-- (Unknown man in crypt – identity not confirmed)
-
----
-
-# Related Quests
-- [[Quest - Main - Investigate the Umbral Attack]]
-
----
-
-# Notes
-- Identified in letter as location for upcoming ritual
-- Area appears abandoned but not inactive
-- Undead presence suggests lingering corruption or past tragedy *(uncertain)*
-- Crypt contains:
-  - Old coffins
-  - Slaughtered animals hung on hooks
-  - Cult symbols matching those found at farm and chapel
-- Likely a ritual site or staging area *(uncertain)*
-
----
----
----
-## Place File: Slaterock Tower.md
+## Place File: Buildings & Sites/Slaterock Tower.md
 
 ```yaml
 type: place
@@ -635,7 +226,7 @@ tags:
 ---
 ---
 ---
-## Place File: Stag and Flagon.md
+## Place File: Buildings & Sites/Stag and Flagon.md
 
 ```yaml
 type: place
@@ -678,7 +269,7 @@ tags:
 ---
 ---
 ---
-## Place File: Stillben Docks.md
+## Place File: Buildings & Sites/Stillben Docks.md
 
 ```yaml
 type: place
@@ -723,7 +314,311 @@ tags:
 ---
 ---
 ---
-## Place File: Stillben.md
+## Place File: Buildings & Sites/The Breezy Plateau.md
+
+```yaml
+type: place
+placeType: tavern
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: (Not described)
+- Atmosphere: Relaxed and social *(inferred)*
+- Notable features:
+  - Lodging and food for travelers
+
+---
+
+# Important NPCs
+- [[Tariic]]
+
+---
+
+# Related Quests
+- [[Quest - Side - Elemental Disturbances in Sephrah]]
+
+---
+
+# Notes
+- Tavern in [[Sephrah]]
+- Used by the group as a place to rest and plan
+
+---
+---
+---
+## Place File: Buildings & Sites/The Dust Vein Curio.md
+
+```yaml
+type: place
+placeType: shop
+region:
+controlledBy: "[[Esree]]"
+tags:
+  - place
+```
+
+# Description
+- Visual: Filled with curios and magical items *(inferred)*
+- Atmosphere: Cluttered and arcane *(inferred)*
+- Notable features:
+  - Sells magical or unusual items
+
+---
+
+# Important NPCs
+- [[Esree]]
+
+---
+
+# Related Quests
+- [[Quest - Side - Esree’s Thieves Problem]]
+
+---
+
+# Notes
+- Shop in [[Stillben]]
+- Location where the group made a deal regarding local thieves
+
+---
+---
+---
+## Place File: Buildings & Sites/The Emberpit forge.md
+
+```yaml
+type: place
+placeType: forge
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Weapons and metalwork on display
+- Atmosphere: Hot and industrious *(inferred)*
+- Notable features:
+  - Produces and sells weapons
+
+---
+
+# Important NPCs
+- (Unknown)
+
+---
+
+# Related Quests
+- (None)
+
+---
+
+# Notes
+- Weapon shop in [[Stillben]]
+- Visited briefly by the group
+
+---
+---
+---
+## Place File: Buildings & Sites/The Fleeting Pages.md
+
+```yaml
+type: place
+placeType: bookstore
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Bookshop in [[Kymal]] targeted during the city attack
+- Atmosphere: Damaged and dangerous in the aftermath of the assault
+- Notable features:
+  - Contained or was believed to contain [[On the edge of the Abyss]]
+  - Central clue location in the opening investigation
+
+---
+
+# Important NPCs
+- [[Bertim]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- Bookstore in [[Kymal]]
+- Specifically targeted by the attackers during the opening assault
+- The attackers were searching for [[On the edge of the Abyss]]
+- [[Bertim]] revealed that he no longer possessed the book
+- Helped establish that the attack had a focused objective beyond random violence
+
+---
+---
+---
+## Place File: Buildings & Sites/The Sable Note.md
+
+```yaml
+type: place
+placeType: tavern
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: (Not described)
+- Atmosphere: Busy and functional *(inferred)*
+- Notable features:
+  - Provides lodging and food
+
+---
+
+# Important NPCs
+- [[Tassa]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Primary base of operations for the group while in [[Stillben]]
+
+---
+---
+---
+## Place File: Buildings & Sites/The Sun's Delight.md
+
+```yaml
+type: place
+placeType: tavern
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: (Not described)
+- Atmosphere: (Not described)
+- Notable features:
+  - Provides rooms and lodging for travelers
+
+---
+
+# Important NPCs
+- 
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+- [[Quest - Side - Find Sesaly]]
+
+---
+
+# Notes
+- Used by the group as their lodging while staying in [[Whitestone]]  
+- The group returned here after meeting [[Thassian]] and after their evening errands in the city
+
+---
+---
+---
+## Place File: Cities/Emon.md
+
+```yaml
+type: place
+placeType: city
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: (Unknown)
+- Atmosphere: (Unknown)
+- Notable features:
+  - Identified as main base of [[Midnight Managerie]]
+  - Also connected to a [[The Myriad]] department
+
+---
+
+# Important NPCs
+- [[Valerya Noir]]
+- (Unknown leaders of [[The Myriad]])
+
+---
+
+# Related Quests
+- [[Quest - Personal - Kaelos - Revenge Against the Midnight Managerie]]
+- [[Quest - Side - Destroy the Midnight Managerie Base in Emon]]
+- [[Quest - Side - Recover the Residium Shipment]]
+
+---
+
+# Notes
+- Major hub of [[Midnight Managerie]]
+- Potential future destination
+- The main base of [[Midnight Managerie]] is said to be here
+- [[Gwen]] identified the crest on the Residium order as belonging to a [[The Myriad]] department in the city
+- Appears to be an important center for multiple major factions
+
+---
+---
+---
+## Place File: Cities/Kymal.md
+
+```yaml
+type: place
+placeType: city
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: A city with gates, patrol routes, and enough infrastructure to organize a rapid alarm response
+- Atmosphere: Chaotic and frightened during the attack, then tense and investigative afterward
+- Notable features:
+  - Site of the first major coordinated attack
+  - Contains [[Stag and Flagon]] and [[The Fleeting Pages]]
+
+---
+
+# Important NPCs
+- [[Brynja Ironbrow]]
+- [[Bertim]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- First major campaign location
+- Attacked by coordinated forces involving abductions and a vampire-like leader
+- Some townsfolk were captured rather than killed
+- The attack led directly to the investigation of [[Tallstack Farm]]
+- The city serves as the starting point for the wider cult and Aether investigation
+
+---
+---
+---
+## Place File: Cities/Stillben.md
 
 ```yaml
 type: place
@@ -772,70 +667,28 @@ tags:
 ---
 ---
 ---
-## Place File: Suntree.md
+## Place File: Cities/Westruun.md
 
 ```yaml
 type: place
-placeType: sacred tree / landmark
+placeType: city
 region:
-controlledBy:
+controlledBy: "[[Lady Cerafis Thaldrin]]"
 tags:
   - place
 ```
 
 # Description
-- Visual: Great tree within [[Whitestone]]
-- Atmosphere: Important, guarded, and revered *(inferred)*
+- Visual: Large, active city with trade and political presence *(inferred)*
+- Atmosphere: Slight unrest and tension following leadership change
 - Notable features:
-  - Guarded heavily
-  - No fence directly around it
-  - Central to concern over the [[Suntree Root]]
+  - Presence of [[Cobalt Soul]]
+  - Shops such as [[Gilmore’s Glorious Goods]]
 
 ---
 
 # Important NPCs
-- [[Thassian]]
-
----
-
-# Related Quests
-- [[Quest - Main - Assist the Realmseer]]
-
----
-
-# Notes
-- Location where the group met [[Thassian]]
-- Source of the [[Suntree Root]]
-- Protected by city guards
-
----
----
----
-## Place File: Tallstack Farm.md
-
-```yaml
-type: place
-placeType: farm
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: Damaged farm buildings and stables showing signs of panic and forced removal of livestock
-- Atmosphere: Somber, tense, and recovering after the attack
-- Notable features:
-  - Livestock theft site tied to the wider ritual investigation
-  - Markings appeared after the attack
-  - Tracks from the farm led north toward the forest
-
----
-
-# Important NPCs
-- [[Mira]]
-- [[Joren]]
-- [[Elsa]]
+- [[Lady Cerafis Thaldrin]]
 
 ---
 
@@ -845,362 +698,18 @@ tags:
 ---
 
 # Notes
-- Investigated by the group after the attack on [[Kymal]]
-- Livestock was taken while the family was left alive
-- The site contained cult-linked markings that appeared after the raid
-- Hidden tracks from the farm led the group toward the chapel investigation
-- Became an early clue that the enemy operation involved both ritual planning and deception
+- Recently appointed new leader: [[Lady Cerafis Thaldrin]]
+- First time the city is ruled by a woman
+- Some discontent among the population
+- Serves as a knowledge hub via [[Cobalt Soul]]
+- After returning to [[Westruun]] before heading out to [[Shadebarrow]] the group encounters tension at the gates
+- The guards are checking entrants 
+- Some guards bearing the new mayor's symbol
 
 ---
 ---
 ---
-## Place File: The Breezy Plateau.md
-
-```yaml
-type: place
-placeType: tavern
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: (Not described)
-- Atmosphere: Relaxed and social *(inferred)*
-- Notable features:
-  - Lodging and food for travelers
-
----
-
-# Important NPCs
-- [[Tariic]]
-
----
-
-# Related Quests
-- [[Quest - Side - Elemental Disturbances in Sephrah]]
-
----
-
-# Notes
-- Tavern in [[Sephrah]]
-- Used by the group as a place to rest and plan
-
----
----
----
-## Place File: The Dust Vein Curio.md
-
-```yaml
-type: place
-placeType: shop
-region:
-controlledBy: "[[Esree]]"
-tags:
-  - place
-```
-
-# Description
-- Visual: Filled with curios and magical items *(inferred)*
-- Atmosphere: Cluttered and arcane *(inferred)*
-- Notable features:
-  - Sells magical or unusual items
-
----
-
-# Important NPCs
-- [[Esree]]
-
----
-
-# Related Quests
-- [[Quest - Side - Esree’s Thieves Problem]]
-
----
-
-# Notes
-- Shop in [[Stillben]]
-- Location where the group made a deal regarding local thieves
-
----
----
----
-## Place File: The Emberpit forge.md
-
-```yaml
-type: place
-placeType: forge
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: Weapons and metalwork on display
-- Atmosphere: Hot and industrious *(inferred)*
-- Notable features:
-  - Produces and sells weapons
-
----
-
-# Important NPCs
-- (Unknown)
-
----
-
-# Related Quests
-- (None)
-
----
-
-# Notes
-- Weapon shop in [[Stillben]]
-- Visited briefly by the group
-
----
----
----
-## Place File: The Fleeting Pages.md
-
-```yaml
-type: place
-placeType: bookstore
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: Bookshop in [[Kymal]] targeted during the city attack
-- Atmosphere: Damaged and dangerous in the aftermath of the assault
-- Notable features:
-  - Contained or was believed to contain [[On the edge of the Abyss]]
-  - Central clue location in the opening investigation
-
----
-
-# Important NPCs
-- [[Bertim]]
-
----
-
-# Related Quests
-- [[Quest - Main - Investigate the Umbral Attack]]
-
----
-
-# Notes
-- Bookstore in [[Kymal]]
-- Specifically targeted by the attackers during the opening assault
-- The attackers were searching for [[On the edge of the Abyss]]
-- [[Bertim]] revealed that he no longer possessed the book
-- Helped establish that the attack had a focused objective beyond random violence
-
----
----
----
-## Place File: The Sable Note.md
-
-```yaml
-type: place
-placeType: tavern
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: (Not described)
-- Atmosphere: Busy and functional *(inferred)*
-- Notable features:
-  - Provides lodging and food
-
----
-
-# Important NPCs
-- [[Tassa]]
-
----
-
-# Related Quests
-- [[Quest - Main - Assist the Realmseer]]
-
----
-
-# Notes
-- Primary base of operations for the group while in [[Stillben]]
-
----
----
----
-## Place File: The Sun's Delight.md
-
-```yaml
-type: place
-placeType: tavern
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: (Not described)
-- Atmosphere: (Not described)
-- Notable features:
-  - Provides rooms and lodging for travelers
-
----
-
-# Important NPCs
-- 
-
----
-
-# Related Quests
-- [[Quest - Main - Assist the Realmseer]]
-- [[Quest - Side - Find Sesaly]]
-
----
-
-# Notes
-- Used by the group as their lodging while staying in [[Whitestone]]  
-- The group returned here after meeting [[Thassian]] and after their evening errands in the city
-
----
----
----
-## Place File: Thortil.md
-
-```yaml
-type: place
-placeType: (unknown – settlement or stronghold)
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: Corrupted landscape and dead trees around the Dawnfather chapel
-- Atmosphere: (Unknown)
-- Notable features:
-  - Location where kidnapped people are being held *(per Kaelos' patron)*
-  - Site of hidden Aether production estate 
-
----
-
-# Important NPCs
-- (Unknown)
-
----
-
-# Related Quests
-- [[Quest - Main - Investigate the Umbral Attack]]
-- [[Quest - Personal - Kaelos - Aether Retrieval]]
-
----
-
-# Notes
-- Identified through information from [[Kaelos]]’ patron
-- Likely connected to the operations of the [[Sect of The Writhing Warden]] *(uncertain)*
-- Crypt beneath the chapel
-- Tomb of [[Saint Benna]] and recovered relics
-- Site of captive rescue 
-- Ties to both [[Sect of The Writhing Warden]] and [[The Umbral Abyss]]
-
----
----
----
-## Place File: Turst Field.md
-
-```yaml
-type: place
-placeType: town / settlement
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual:
-  - Contains an underground cistern system beneath or near the city
-- Atmosphere:
-  - (Unknown)
-- Notable features:
-  - Site of a [[The Myriad]] hideout
-  - Location of the stolen Residium shipment
-  - Has a sealed official cistern entrance near the bank
-  - Some #gnolls are openly incorporated into city life
-
----
-
-# Important NPCs
-- [[Gwen]]
-
----
-
-# Related Quests
-- [[Quest - Side - Recover the Residium Shipment]]
-
----
-
-# Notes
-- Location where the stolen 5-pound Residium shipment is being held
-- A blueprint of the building holding the shipment is available
-- The group entered the hideout area through a route east of the city leading down into the cistern
-- The cistern acts as a covert access route to the hideout
-- The hideout entrance is blocked by a smooth marble door that opens with a passphrase
-
----
----
----
-## Place File: Whitestone Woods.md
-
-```yaml
-type: place
-placeType: forest / woods
-region:
-controlledBy:
-tags:
-  - place
-```
-
-# Description
-- Visual: Misty woodland with hidden clearings
-- Atmosphere: Unnaturally quiet and eerie
-- Notable features:
-  - Clearing touched by illusion and enchantment magic
-  - Hidden path revealed through mist
-  - Associated with dreams and disappearances
-
----
-
-# Important NPCs
-- [[Sesaly]]
-- [[Julia]]
-
----
-
-# Related Quests
-- [[Quest - Side - Find Sesaly]]
-
----
-
-# Notes
-- The group investigated this area while searching for [[Sesaly]]
-- [[Kaelos]] detected illusion and enchantment magic here
-- Silver threads of magic extended upward from the clearing
-
----
----
----
-## Place File: Whitestone.md
+## Place File: Cities/Whitestone.md
 
 ```yaml
 type: place
@@ -1249,6 +758,625 @@ tags:
 - Guards in the city visibly carry firearms  
 - The city leadership may permit access to Residium when sufficiently convinced of the group’s trustworthiness  
 - The group improved their standing in the city by returning [[Sesaly]]
+
+---
+---
+---
+## Place File: Landmarks/Shadebarrow.md
+
+```yaml
+type: place
+placeType: fortress / ruin
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual:
+  - Massive stone fortress surrounded by high walls
+  - Interior halls marked with carvings of chained bodies, torture, and divine symbols
+  - Contains ritual chambers, braziers, mosaics, abyssal inscriptions, and hidden passages
+- Atmosphere:
+  - Ominous, oppressive, and dangerous
+  - Strongly tied to dread, sacrifice, and corrupted divinity
+- Notable features:
+  - Said to be an old fortress of the betrayer gods
+  - Known as a place people do not seem to return from
+  - Contains defaced divine imagery, abyssal inscriptions, and ritual barriers
+  - Contains symbols of the [[Betrayer Gods]]
+  - Contains evidence of previous intruders or enemies of demons
+
+---
+
+# Important NPCs
+- (Unknown)
+- (Dead drow bearing the symbol of the [[Luxon]])
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+- [[Quest - Side - The Mark of the Luxon]]
+
+---
+
+# Notes
+- Believed to hold the **Divine Tear**
+- Identified by [[Eskyld]] as the location of the final missing ingredient for his portal experiment
+- Described as an old fortress of the betrayer gods
+- Considered highly dangerous
+- [[Nibs]] scouted the interior
+- Members of [[The Ravagers]] were encountered and defeated
+- [[C.H.A.R.L.E.S]] sacrificed his beloved hooded lantern to proceed deeper 
+- The entrance contained symbols of the nine [[Betrayer Gods]]
+- [[Roland]] recognized symbols of [[Gruumsh]], [[Vecna]], and [[Asmodeus]]
+- A later chamber was marked with the symbol of [[Tiamat]]
+- The group encountered magical braziers with colored sand:
+  - Green / emerald → poison resistance, but muted divine healing
+  - Red / ruby → fire resistance, but weakness to ice
+  - Blue / sapphire → lightning resistance, but weakness to thunder
+- A hall of pillars contained flame ballerinas tied to a mosaic of the [[Betrayer Gods]]
+- [[C.H.A.R.L.E.S]] completed the dance trial, causing symbols on the mosaic to light
+- The mosaic included symbols for:
+  - [[Gruumsh]]
+  - [[Vecna]]
+  - [[Torog]]
+  - [[Bane]]
+  - [[Sahir]]
+  - [[Tiamat]]
+  - [[Therasdun]]
+  - [[Asmodeus]]
+  - [[Lolth]]
+- A side chamber contained spider webs, cocoons, and a half-drow / half-spider creature
+- The cocoons held dead drow in regal clothing bearing the symbol of the [[Luxon]]
+- One dead drow said they came to destroy demons and protect [[Basosaan]]
+- The group reached a chain-lined hall ending in a deep, dark well roughly 100 feet down
+- Contains a chamber with a statue of [[Zerzus]] and a red fluid fountain
+- [[Xartaza]], also known as **The Conduit of Lies**, was found floating before the statue
+- Contains mechanisms capable of opening rifts to the [[Abyssal Plane]]
+- A giant bird-like abyssal creature emerged from one such rift
+
+---
+---
+---
+## Place File: Landmarks/Suntree.md
+
+```yaml
+type: place
+placeType: sacred tree / landmark
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Great tree within [[Whitestone]]
+- Atmosphere: Important, guarded, and revered *(inferred)*
+- Notable features:
+  - Guarded heavily
+  - No fence directly around it
+  - Central to concern over the [[Suntree Root]]
+
+---
+
+# Important NPCs
+- [[Thassian]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Location where the group met [[Thassian]]
+- Source of the [[Suntree Root]]
+- Protected by city guards
+
+---
+---
+---
+## Place File: Landmarks/Thortil.md
+
+```yaml
+type: place
+placeType: (unknown – settlement or stronghold)
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Corrupted landscape and dead trees around the Dawnfather chapel
+- Atmosphere: (Unknown)
+- Notable features:
+  - Location where kidnapped people are being held *(per Kaelos' patron)*
+  - Site of hidden Aether production estate 
+
+---
+
+# Important NPCs
+- (Unknown)
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+- [[Quest - Personal - Kaelos - Aether Retrieval]]
+
+---
+
+# Notes
+- Identified through information from [[Kaelos]]’ patron
+- Likely connected to the operations of the [[Sect of The Writhing Warden]] *(uncertain)*
+- Crypt beneath the chapel
+- Tomb of [[Saint Benna]] and recovered relics
+- Site of captive rescue 
+- Ties to both [[Sect of The Writhing Warden]] and [[The Umbral Abyss]]
+
+---
+---
+---
+## Place File: Planes & Other Realms/Affyrimental.md
+
+```yaml
+type: place
+placeType: prison / magical confinement
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: (Unknown)
+- Atmosphere: Ancient, sealed, and severe *(inferred)*
+- Notable features:
+  - Said to be a prison meant to hold a powerful being forever
+
+---
+
+# Important NPCs
+- [[Nefyracsus]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Mentioned by [[The Dawnfather]] in [[Roland]]’s dream
+- Described as the prison where [[Nefyracsus]] was bound for eternity
+- Exact nature and location unknown
+- Likely a place of immense magical significance *(inferred)*
+
+---
+---
+---
+## Place File: Planes & Other Realms/Cania.md
+
+```yaml
+type: place
+placeType: plane (layer of Hell)
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: A frozen and inhospitable landscape *(inferred from association with ice fiend)*
+- Atmosphere: Cold, oppressive, and hostile *(inferred)*
+- Notable features:
+  - Identified as the **ninth layer of Hell**
+  - Domain of [[Malvoria]]
+
+---
+
+# Important NPCs
+- [[Malvoria]]
+
+---
+
+# Related Quests
+- [[Quest - Personal - Kaelos - Aether Retrieval]]
+
+---
+
+# Notes
+- Referenced as the origin of [[Malvoria]]
+- Associated with infernal power and influence
+- Not directly visited *(as of current sessions)*
+- Likely not a physical location accessible by normal means *(uncertain)*
+
+---
+---
+---
+## Place File: Planes & Other Realms/Plane of Air.md
+
+```yaml
+type: place
+placeType: plane
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Vast open skies filled with clouds and wind *(inferred)*
+- Atmosphere: Chaotic and constantly shifting *(inferred)*
+- Notable features:
+  - Domain of elemental air beings
+  - Connected to the Material Plane via portals
+
+---
+
+# Important NPCs
+- (Unknown)
+
+---
+
+# Related Quests
+- [[Quest - Side - Elemental Disturbances in Sephrah]]
+
+---
+
+# Notes
+- Source of recent elemental disturbances near [[Sephrah]]
+- Increasing activity suggests instability or disruption *(uncertain)*
+- Likely connected to planar imbalance *(uncertain)*
+
+---
+---
+---
+## Place File: Planes & Other Realms/Siegel.md
+
+```yaml
+type: place
+placeType: planar hub
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: (Unknown)
+- Atmosphere: (Unknown)
+- Notable features:
+  - Described as a central point of the multiverse
+  - Said to contain people from many different realms
+
+---
+
+# Important NPCs
+- (Unknown)
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Target destination of [[Eskyld]]’s experiment
+- Likely a major crossroads between worlds *(inferred)*
+- Not yet visited
+
+---
+---
+---
+## Place File: Settlements/Sephrah.md
+
+```yaml
+type: place
+placeType: (settlement)
+region:
+controlledBy: (Air Ashari)
+tags:
+  - place
+```
+
+# Description
+- Visual: (Unknown)
+- Atmosphere: (Unknown)
+- Notable features:
+  - Home of the Air Ashari
+
+---
+
+# Important NPCs
+- (Air Ashari – unnamed)
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- Recommended destination by [[Brynja Ironbrow]]
+- Suggested as a place to gain knowledge about Aether or related phenomena *(uncertain)*
+- Likely connected to elemental or planar balance *(inferred)*
+- Location reached via teleportation from [[Eskyld]]  
+- Contains a monastery and mountain settlement  
+- Nearby region experiencing kidnappings of Genasi  
+- Roughly one day’s travel from [[Stillben]]
+- The group departed from here after resolving the elemental disturbance
+
+---
+---
+---
+## Place File: Settlements/Silvercut Crossroads.md
+
+```yaml
+type: place
+placeType: crossroads / ruins
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Ruined settlement centered around a monument, surrounded by abandoned houses
+- Atmosphere: Eerie, quiet, and unsettling
+- Notable features:
+  - Central monument with inscription about justice and the innocent dead
+  - Ruined houses with signs of decay
+  - Hidden crypt beneath one of the houses
+  - Presence of undead and restless spirits
+
+---
+
+# Important NPCs
+- [[Zevrin]] *(mentioned as being here)*
+- (Unknown man in crypt – identity not confirmed)
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- Identified in letter as location for upcoming ritual
+- Area appears abandoned but not inactive
+- Undead presence suggests lingering corruption or past tragedy *(uncertain)*
+- Crypt contains:
+  - Old coffins
+  - Slaughtered animals hung on hooks
+  - Cult symbols matching those found at farm and chapel
+- Likely a ritual site or staging area *(uncertain)*
+
+---
+---
+---
+## Place File: Settlements/Turst Field.md
+
+```yaml
+type: place
+placeType: town / settlement
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual:
+  - Contains an underground cistern system beneath or near the city
+- Atmosphere:
+  - (Unknown)
+- Notable features:
+  - Site of a [[The Myriad]] hideout
+  - Location of the stolen Residium shipment
+  - Has a sealed official cistern entrance near the bank
+  - Some #gnolls are openly incorporated into city life
+
+---
+
+# Important NPCs
+- [[Gwen]]
+
+---
+
+# Related Quests
+- [[Quest - Side - Recover the Residium Shipment]]
+
+---
+
+# Notes
+- Location where the stolen 5-pound Residium shipment is being held
+- A blueprint of the building holding the shipment is available
+- The group entered the hideout area through a route east of the city leading down into the cistern
+- The cistern acts as a covert access route to the hideout
+- The hideout entrance is blocked by a smooth marble door that opens with a passphrase
+
+---
+---
+---
+## Place File: Unsorted/Abyssal Plane.md
+
+```yaml
+type: place
+placeType: plane
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual:
+  - Seen through a rift as a horrifying realm beyond the chasm
+- Atmosphere:
+  - Terrifying, hostile, and filled with shrieks
+- Notable features:
+  - Source of abyssal creatures
+  - Can be accessed or exposed through dangerous planar rifts
+
+---
+
+# Important NPCs
+- (Unknown)
+
+---
+
+# Related Quests
+- [[Quest - Main - Assist the Realmseer]]
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- A rift to the [[Abyssal Plane]] opened inside [[Shadebarrow]]
+- [[Roland]] recognized the realm beyond the rift
+- A giant bird-like creature emerged from the rift and attacked the group
+- The rift closed after the creature was killed
+- The plane may connect to the wider demon lord threat involving [[The Writhing Warden]]
+- [[Shadebarrow]] appears to contain mechanisms capable of opening temporary rifts to this plane
+
+---
+---
+---
+## Place File: Unsorted/Basosaan.md
+
+```yaml
+type: place
+placeType: (unknown)
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual:
+- Atmosphere:
+- Notable features:
+  - Connected to dead drow found inside [[Shadebarrow]]
+  - Something the drow claimed they were trying to protect
+
+---
+
+# Important NPCs
+- (Dead drow bearing the symbol of the [[Luxon]])
+
+---
+
+# Related Quests
+- [[Quest - Side - The Mark of the Luxon]]
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+# Notes
+- Named by a dead drow questioned with Speak with Dead inside [[Shadebarrow]]
+- The drow said they came to destroy demons “to protect [[Basosaan]]”
+- It is currently unknown whether [[Basosaan]] is:
+  - a place
+  - a people
+  - a settlement
+  - a temple
+  - an object
+  - or something else
+- Likely connected to the [[Luxon]] symbol found on the dead drow *(uncertain)*
+- May be threatened by demons or by events connected to [[Shadebarrow]] *(uncertain)*
+
+---
+---
+---
+## Place File: Wilderness/Tallstack Farm.md
+
+```yaml
+type: place
+placeType: farm
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Damaged farm buildings and stables showing signs of panic and forced removal of livestock
+- Atmosphere: Somber, tense, and recovering after the attack
+- Notable features:
+  - Livestock theft site tied to the wider ritual investigation
+  - Markings appeared after the attack
+  - Tracks from the farm led north toward the forest
+
+---
+
+# Important NPCs
+- [[Mira]]
+- [[Joren]]
+- [[Elsa]]
+
+---
+
+# Related Quests
+- [[Quest - Main - Investigate the Umbral Attack]]
+
+---
+
+# Notes
+- Investigated by the group after the attack on [[Kymal]]
+- Livestock was taken while the family was left alive
+- The site contained cult-linked markings that appeared after the raid
+- Hidden tracks from the farm led the group toward the chapel investigation
+- Became an early clue that the enemy operation involved both ritual planning and deception
+
+---
+---
+---
+## Place File: Wilderness/Whitestone Woods.md
+
+```yaml
+type: place
+placeType: forest / woods
+region:
+controlledBy:
+tags:
+  - place
+```
+
+# Description
+- Visual: Misty woodland with hidden clearings
+- Atmosphere: Unnaturally quiet and eerie
+- Notable features:
+  - Clearing touched by illusion and enchantment magic
+  - Hidden path revealed through mist
+  - Associated with dreams and disappearances
+
+---
+
+# Important NPCs
+- [[Sesaly]]
+- [[Julia]]
+
+---
+
+# Related Quests
+- [[Quest - Side - Find Sesaly]]
+
+---
+
+# Notes
+- The group investigated this area while searching for [[Sesaly]]
+- [[Kaelos]] detected illusion and enchantment magic here
+- Silver threads of magic extended upward from the clearing
 
 ---
 ---

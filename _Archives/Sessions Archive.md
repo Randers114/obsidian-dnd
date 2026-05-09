@@ -30,6 +30,8 @@
 - 2026-03-12 — Into the Myriad Hideout
 - 2026-03-19 — Keys to the Vault
 - 2026-03-26 — Doors of Shadebarrow
+- 2026-04-16 — The Price of Passage
+- 2026-05-07 — Beneath Shadebarrow
 
 ---
 
@@ -3976,7 +3978,7 @@ The second inscription reads:
 ---
 
 ### Scene 5 – The Sacrifice
-[[Roland]], after considering the meaning of the inscription, removes the necklace bearing the symbol of [[The Dawnfather]] that he has carried since childhood.
+[[C.H.A.R.L.E.S]], after considering the meaning of the inscription, takes out his beloved hooded lantern.
 
 He drops it into the skull vase.
 
@@ -3986,6 +3988,394 @@ After a few moments:
 - A hidden wall behind the vase opens
 
 The group gains passage deeper into [[Shadebarrow]].
+
+---
+---
+---
+## Session File: 2026-04-16 - The Price of Passage.md
+
+```yaml
+sessionNumber: 30
+type: session
+date: 2026-04-16
+people:
+  - "[[Kaelos]]"
+  - "[[Roland]]"
+  - "[[C.H.A.R.L.E.S]]"
+  - "[[Nibs]]"
+locations:
+  - "[[Shadebarrow]]"
+organizations:
+  - "[[The Ravagers]]"
+  - "[[Luxon]]"
+quests:
+  - "[[Quest - Main - Assist the Realmseer]]"
+  - "[[Quest - Side - The Mark of the Luxon]]"
+tags:
+  - session
+```
+
+# 2026-04-16 - "The Price of Passage"
+
+## 🎯 Session Goals (Before Play)
+- Explore deeper into [[Shadebarrow]]
+- Continue searching for the Divine Tear
+
+---
+
+## 🧠 Recap
+- The group entered [[Shadebarrow]]
+- They defeated members of [[The Ravagers]]
+- [[Roland]] sacrificed his childhood holy symbol to open the way deeper into the fortress
+
+---
+
+## 📖 Summary
+Deeper within [[Shadebarrow]], the group overcomes multiple ritual chambers tied to the [[Betrayer Gods]]. In the first, they defeat a fiendish guardian and light magical braziers using colored gems, each granting a resistance at a cost. In the second, they solve a symbolic trial involving flame dancers and the mosaic of the betrayer gods. A side chamber reveals cocooned drow bearing the symbol of the [[Luxon]], suggesting that the group’s second encounter with that symbol may not be coincidence. The session ends with the group opening yet another passage and discovering a deep, unnatural well.
+
+---
+
+## 🗺️ Key Events
+- Enter chamber with five braziers and a fiendish winged guardian
+- Defeat the fiend after it ignites a second brazier
+- Identify the central symbol as belonging to [[Tiamat]]
+- Discover colored sand in the braziers and match gems to them
+- Gain magical resistances at corresponding costs
+- Open the next chamber by lighting all braziers
+- Enter hall of pillars and flame ballerinas
+- Realize the room is tied to the symbols of the [[Betrayer Gods]]
+- [[C.H.A.R.L.E.S]] dances with the flame entities to activate the mosaic
+- [[Kaelos]] takes heavy psychic damage from touching the wrong symbol
+- Discover side chamber full of spider webs and cocoons
+- Defeat a half-drow, half-spider creature and smaller spiders
+- Find dead drow bearing the symbol of the [[Luxon]]
+- Use Speak with Dead to question one of the corpses
+- Learn the drow came to destroy demons and protect [[Basosaan]]
+- Open the next passage by pressing the mosaic symbols in the correct order
+- Discover a chain-lined hall ending in a deep black well
+- [[Kaelos]] summons [[Nibs]]
+
+---
+
+## 🧾 Quests Updated
+- [[Quest - Main - Assist the Realmseer]]
+- [[Quest - Side - The Mark of the Luxon]]
+
+---
+
+## ⚠️ Open Threads
+- Whether the repeated appearance of the [[Luxon]] symbol is connected to the portal ingredients
+- Why followers or agents linked to the [[Luxon]] were present in [[Shadebarrow]]
+- What [[Basosaan]] is and why it needed protection
+- What lies at the bottom of the well
+- Whether the Divine Tear is deeper within [[Shadebarrow]]
+- What [[Eskyld]] knows about the connection between the [[Luxon]] and the portal ingredients
+
+---
+
+## ❓ Questions
+- Is the repeated presence of the [[Luxon]] symbol tied to the portal ingredients, or is it coincidence?
+- Why were Luxon-marked drow inside [[Shadebarrow]]?
+- What is [[Basosaan]]?
+- Why did the dead drow say they came to destroy all the demons?
+- What exactly are the magical costs of the brazier blessings?
+- What is waiting at the bottom of the well?
+- Why does [[Shadebarrow]] contain trials tied to the [[Betrayer Gods]] but also evidence of opposition to demons?
+- Should the group ask [[Eskyld]] what he knows about the [[Luxon]] and its link to these ingredients?
+
+---
+
+## 📚 Story (Detailed Narrative)
+
+### Scene 1 – The Chamber of Black Flame
+After the hidden wall opens, the group enters a chamber lit by fire and white light. Five braziers stand within the room. The brazier nearest the group contains black sand, and one brazier is already lit.
+
+A fiendish creature attacks immediately. It resembles a gargoyle, with wings and a longsword. Early in the fight, it hurls a fiery rock into the brazier near the group, igniting it. Once lit, the brazier burns with black flames and emits black light.
+
+[[Roland]] recognizes the symbol in the center of the room as belonging to [[Tiamat]], one of the [[Betrayer Gods]]. He also determines that the flames in the braziers are magical and of the conjuration school.
+
+After defeating the creature, the group takes a closer look at the braziers and notices subtle differences in the color of the sand within them.
+
+The room also contains an altar holding four items:
+- a ruby
+- a sapphire
+- an ivory object
+- an emerald
+
+[[Roland]] places the emerald into the brazier with green sand. It lights, and he feels a magical effect settle on him: greater resistance to poison, but with his healing magic from [[The Dawnfather]] feeling muted.
+
+[[C.H.A.R.L.E.S]] places the ruby into the red brazier. He feels more resistant to fire, but weaker against ice.
+
+[[Kaelos]] places the sapphire into the blue brazier. He feels more resistant to lightning, but weaker to thunder.
+
+Once the final brazier is lit, the far door opens.
+
+---
+
+### Scene 2 – The Hall of Flame Dancers
+The next room is a long hall with four rows of pillars. Faint music fills the space. Between each row of pillars stand lit braziers.
+
+At the far end is a large mosaic marked with symbols. After entering, the flames blaze brighter and humanoid flame ballerinas emerge, dancing through the hall. Whenever they notice the group, they extend their hands as if inviting them to dance.
+
+[[C.H.A.R.L.E.S]] approaches one and attempts to communicate. It does not answer, but clearly moves in time with the music. He takes its hand and joins the dance. After completing it, the ballerina seems pleased and flies to the mosaic, where a symbol of a spider lights up. The brazier that spawned it returns to a normal burn.
+
+The group studies the mosaic, and [[Roland]] recognizes the symbols as those of the [[Betrayer Gods]]:
+
+- [[Gruumsh]]
+- [[Vecna]]
+- [[Torog]]
+- [[Bane]]
+- [[Sahir]]
+- [[Tiamat]]
+- [[Therasdun]]
+- [[Asmodeus]]
+- [[Lolth]]
+
+When [[Kaelos]] tries to open the door directly, he accidentally touches one of the symbols and suffers a large amount of psychic damage.
+
+[[C.H.A.R.L.E.S]] continues dancing with the remaining flame ballerinas. As each one completes its dance, another symbol on the mosaic lights up.
+
+---
+
+### Scene 3 – The Web Chamber
+While exploring the hall, [[Roland]] finds a side chamber thick with spider webs. He throws in a light source and sees several small spiders and one much larger creature.
+
+He retreats back into the hall as the spiders attack. The largest among them is a monstrous half-drow, half-spider creature.
+
+After defeating them, the group investigates the chamber more carefully. The webs glow faintly green. The music in this room differs from the dance hall outside: there it was melodic and rhythmic, but here it is more like a song.
+
+Inside are four cocoons, and the song seems to be coming from them.
+
+[[Roland]] opens one cocoon, and a dead drow in regal clothing falls out. The garments bear the symbol of the [[Luxon]]. All four cocoons contain similar corpses.
+
+One of the drow carries a finely made longsword with an onyx hilt, which the group takes.
+
+---
+
+### Scene 4 – Questions for the Dead
+[[Roland]] casts Speak with Dead on one of the drow. The group asks five questions.
+
+**What are you doing at [[Shadebarrow]]?**  
+- *What is [[Shadebarrow]]*
+
+**Where did you die?**  
+- *Here under the spider*
+
+**Why did you come here?**  
+- *To destroy all the demons*
+
+**What is your role in the [[Luxon]]?**  
+- *I do not know, the [[Luxon]] is everything.*
+
+**Why would you destroy all the demons in this place?**  
+- *To protect [[Basosaan]]*
+
+This is the second time the group has encountered the symbol of the [[Luxon]]. The first was in connection with the pursuit of the [[Suntree Root]]. Now, while searching for the Divine Tear, the symbol appears again. Since both are portal ingredients, the group is left wondering whether this is coincidence or something more deliberate.
+
+---
+
+### Scene 5 – The Hall of Chains
+The group returns to the mosaic and decides to press the symbols in the order they lit up after the dances.
+
+The door opens.
+
+Beyond lies a hallway carved with chained bodies. Chains cover the floor. As the group enters, they feel weighed down and a terrible dread settles into their minds.
+
+At the far end stands a large well filled with pitch darkness.
+
+[[Roland]] casts Light on a stone and throws it in. The bottom appears to be roughly 100 feet below, with smooth walls all the way down.
+
+At this point, [[Kaelos]] calls upon his familiar [[Nibs]].
+
+---
+---
+---
+## Session File: 2026-05-07 - Beneath Shadebarrow.md
+
+```yaml
+sessionNumber: 31
+type: session
+date: 2026-05-07
+people:
+  - "[[Kaelos]]"
+  - "[[Roland]]"
+  - "[[C.H.A.R.L.E.S]]"
+  - "[[Xartaza]]"
+  - "[[Zerzus]]"
+  - "[[Asmodeus]]"
+locations:
+  - "[[Shadebarrow]]"
+  - "[[Abyssal Plane]]"
+organizations:
+  - "[[Betrayer Gods]]"
+quests:
+  - "[[Quest - Main - Assist the Realmseer]]"
+tags:
+  - session
+```
+
+# 2026-05-07 - "Beneath Shadebarrow"
+
+## 🎯 Session Goals (Before Play)
+- Descend deeper into [[Shadebarrow]]
+- Continue searching for the Divine Tear
+
+---
+
+## 🧠 Recap
+- The group passed several ritual chambers inside [[Shadebarrow]]
+- They found dead drow bearing the symbol of the [[Luxon]]
+- They reached a chain-filled hall ending in a deep, dark shaft
+
+---
+
+## 📖 Summary
+The group descends into the depths beneath [[Shadebarrow]], reaching a chamber dominated by a chained statue and passages leading deeper into the fortress. They discover a statue of [[Zerzus]] and recover a sentient wand named [[Xartaza]], also called **The Conduit of Lies**. After surviving a brutal fight against two large orcs in a pool of blood, the group triggers a rift to the [[Abyssal Plane]] and barely survives the creature that emerges from it.
+
+---
+
+## 🗺️ Key Events
+- Tie ropes and chains together to descend the shaft
+- Reach a chamber with a chained statue and three giant arms protruding from the ground
+- Hear supernatural screams with a mental effect
+- [[Roland]] is briefly affected by the screams
+- Discover multiple paths branching from the statue chamber
+- Find chamber with statue of [[Zerzus]]
+- [[C.H.A.R.L.E.S]] is entranced by red fluid in the fountain
+- [[Roland]] recovers sentient wand [[Xartaza]]
+- Identify the wand as **The Conduit of Lies**
+- Open magically locked door using Chime of Opening
+- Defeat two large orcs in a pool of blood
+- Discover chasm chamber with corpses, rope stumps, and abyssal text
+- [[C.H.A.R.L.E.S]] activates hand-shaped mechanism before translation is complete
+- Rift to the [[Abyssal Plane]] opens
+- Defeat giant bird-like abyssal creature
+- Rift closes after the creature is killed
+
+---
+
+## 🧾 Quests Updated
+- [[Quest - Main - Assist the Realmseer]]
+
+---
+
+## ⚠️ Open Threads
+- Purpose of the chained statue and three giant arms
+- Identity and danger of [[Xartaza]]
+- Whether **The Conduit of Lies** can be safely used
+- Meaning of the red fluid in [[Zerzus]]’ chamber
+- What the abyssal text near the chasm says
+- Whether the hand-shaped mechanism was a trap, test, or gateway
+- How close the group is to the Divine Tear
+
+---
+
+## ❓ Questions
+- What is the chained statue beneath [[Shadebarrow]]?
+- Why is there a statue of [[Zerzus]] here?
+- Is [[Xartaza]] connected directly to [[Asmodeus]]?
+- What does **The Conduit of Lies** want from [[Kaelos]] or the group?
+- What was the original purpose of the rift to the [[Abyssal Plane]]?
+- Are the dead bodies near the chasm previous failed explorers?
+- What lies beyond the next door or passage?
+
+---
+
+## 📚 Story (Detailed Narrative)
+
+### Scene 1 – Descent into the Shaft
+The group checks whether they have enough rope to descend the shaft.
+
+Using two 50-foot ropes and a length of chain tied to the chains on the floor, they manage to create a line just long enough to reach the bottom.
+
+[[Kaelos]] climbs down first, struggling slightly but reaching the bottom. Below, he sees a giant statue bound and covered in chains. Around the statue, three enormous arms protrude from the ground.
+
+[[C.H.A.R.L.E.S]] climbs down next. As he descends, he hears screams from below, growing louder as he approaches the bottom. The screams carry a mental effect, but both [[Kaelos]] and [[C.H.A.R.L.E.S]] resist it.
+
+[[Roland]] climbs down last. The screams affect him, leaving him irritable and causing him to respond harshly to the group until he later shakes off the influence.
+
+---
+
+### Scene 2 – The Chained Statue
+The group explores the chamber around the chained statue.
+
+On the statue’s stomach is a large set of double doors. Three passages lead away from the chamber:
+
+- One appears to contain stairs leading back upward
+- One leads into raw cavern paths
+- One leads toward another large chamber
+
+The cavern path eventually splits into three narrow passages:
+- one lit by red light
+- one lit by violet light
+- one covered in magical darkness that [[Kaelos]] cannot see through
+
+The group chooses another route and enters a large chamber containing a winged statue and a fountain of red fluid.
+
+---
+
+### Scene 3 – The Statue of Zerzus
+In the chamber, a wand floats in the air before a winged statue. The wand hovers above a fountain filled with red fluid.
+
+[[C.H.A.R.L.E.S]] looks into the liquid and becomes entranced, staring into it and unable to act. [[Kaelos]] tries to nudge him out of it, but [[C.H.A.R.L.E.S]] remains fixated.
+
+[[Roland]] recognizes the statue as [[Zerzus]], known as the First Knight and the right hand of the lord of the Hells.
+
+[[Roland]] punches [[C.H.A.R.L.E.S]], snapping him out of the trance.
+
+---
+
+### Scene 4 – The Conduit of Lies
+[[Roland]] takes the floating wand.
+
+At its top is a red face set into a gem. The wand speaks directly into [[Roland]]’s mind, urging him to take over the world in the name of the Lord of the Nine Hells, [[Asmodeus]].
+
+When asked its name, the wand identifies itself as [[Xartaza]].
+
+It promises power and wealth, continuing to tempt [[Roland]]. After identifying it with magic, [[Roland]] learns that the wand is called **The Conduit of Lies**.
+
+Because it appears specialized for warlocks, [[Roland]] gives it to [[Kaelos]].
+
+---
+
+### Scene 5 – The Blood Pool
+Beyond the chamber is another corridor ending in a magically locked door.
+
+The group uses their Chime of Opening, leaving it with 9 charges, and the door opens into a massive room with a 50-foot ceiling.
+
+Inside is a giant pool of blood. Two seven-foot-tall orcs stand in the blood and immediately attack.
+
+The fight is difficult, but the group defeats them.
+
+After the battle, the next door opens.
+
+---
+
+### Scene 6 – The Demon Face and the Chasm
+Beyond the door is a hallway ending at a demon-faced opening.
+
+The group rests briefly in the hallway before moving forward.
+
+Past the demon face, they find a ledge overlooking a deep chasm. Skeletons and other bodies lie scattered on the ledge. The bottom cannot be seen, and dark mist fills the space below.
+
+Several bodies have rope stumps leading from them into the chasm.
+
+At the end of the ledge is a hand-shaped indentation, as if someone is meant to place their hand into it. Nearby is text the group cannot read.
+
+[[Kaelos]] begins casting Comprehend Languages to translate it.
+
+Before the ritual is complete, [[C.H.A.R.L.E.S]] pushes his hand into the indentation.
+
+---
+
+### Scene 7 – The Abyssal Rift
+A giant rift opens on the far side of the chasm.
+
+Shrieks echo from beyond it, and [[Roland]] recognizes the other side as the [[Abyssal Plane]].
+
+A massive bird-like creature flies through the rift and attacks the group.
+
+The battle is nearly fatal, but the group manages to defeat the creature. When it dies, the rift to the [[Abyssal Plane]] closes.
 
 ---
 ---

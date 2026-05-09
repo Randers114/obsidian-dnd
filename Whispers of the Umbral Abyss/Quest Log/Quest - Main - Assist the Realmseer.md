@@ -75,6 +75,21 @@ tags:
   - Breached the fortress walls
   - Defeated members of [[The Ravagers]]
   - Passed the first divine / ritual barrier within the fortress
+- Session 30:
+  - Advanced deeper into [[Shadebarrow]]
+  - Passed multiple ritual chambers tied to the [[Betrayer Gods]]
+  - Defeated a fiendish guardian in a chamber marked by [[Tiamat]]
+  - Solved a brazier-and-gem trial involving magical resistances and weaknesses
+  - Completed a dance-based trial connected to symbols of the [[Betrayer Gods]]
+  - Found dead drow bearing the symbol of the [[Luxon]]
+  - Reached a chain-lined hall ending in a deep, dark well
+- Session 31:
+  - Descended deeper beneath [[Shadebarrow]]
+  - Found chained statue chamber beneath the shaft
+  - Discovered statue of [[Zerzus]]
+  - Recovered sentient wand [[Xartaza]], also known as **The Conduit of Lies**
+  - Defeated two large orcs in a blood-filled chamber
+  - Triggered and survived a rift to the [[Abyssal Plane]]
 
 ---
 
@@ -113,3 +128,13 @@ tags:
 - [[Shadebarrow]] contains symbols of the [[Betrayer Gods]]
 - Progress within the fortress may require sacrifice, faith, or divine recognition
 - [[Roland]] sacrificed a childhood holy symbol of [[The Dawnfather]] to continue deeper
+- [[Shadebarrow]] contains layered trials or barriers tied to the [[Betrayer Gods]]
+- The fortress appears to test sacrifice, faith, endurance, and symbolic understanding
+- The group found dead drow who claimed they came to destroy demons and protect [[Basosaan]]
+- The [[Luxon]] symbol has now appeared in connection with both the [[Suntree Root]] and the Divine Tear
+- This may suggest that the portal ingredients are being watched, pursued, or protected by forces connected to the [[Luxon]] *(uncertain)*
+- [[Eskyld]] should be questioned about why the [[Luxon]] symbol might appear in [[Shadebarrow]]
+- [[Shadebarrow]] contains deeper chambers tied to chains, blood, infernal influence, and abyssal gateways
+- [[Xartaza]] is a sentient wand that urges conquest in the name of [[Asmodeus]]
+- The fortress appears connected not only to the [[Betrayer Gods]], but also to the [[Abyssal Plane]]
+- The hand-shaped mechanism opened a dangerous rift, suggesting some parts of [[Shadebarrow]] may function as planar traps or tests

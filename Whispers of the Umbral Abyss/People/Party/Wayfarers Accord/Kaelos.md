@@ -61,3 +61,5 @@ tags:
 - Encountered [[Midnight Managerie]] again in Session 14
 - Recognized insignia from the group that previously captured him
 - Took part in dismantling one of their camps
+- Received [[Xartaza]], a sentient wand also known as **The Conduit of Lies**, from [[Roland]]
+- The wand appears specialized for warlocks but is dangerous and manipulative

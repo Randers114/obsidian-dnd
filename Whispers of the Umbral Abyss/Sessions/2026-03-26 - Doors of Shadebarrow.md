@@ -156,7 +156,7 @@ The second inscription reads:
 ---
 
 ### Scene 5 – The Sacrifice
-[[Roland]], after considering the meaning of the inscription, removes the necklace bearing the symbol of [[The Dawnfather]] that he has carried since childhood.
+[[C.H.A.R.L.E.S]], after considering the meaning of the inscription, takes out his beloved hooded lantern.
 
 He drops it into the skull vase.
 

@@ -37,6 +37,12 @@ tags:
   - Defeated group pursuing the [[Suntree Root]]
   - Recovered Luxon-marked badge
   - Found threatening letter signed “D”
+- Session 30:
+  - Found dead drow inside [[Shadebarrow]] bearing the symbol of the [[Luxon]]
+  - Used Speak with Dead to question one of the corpses
+  - Learned the drow came to destroy demons
+  - Learned they believed they were protecting [[Basosaan]]
+  - Confirmed this is the second time the [[Luxon]] symbol has appeared during the search for portal ingredients
 
 ---
 
@@ -62,3 +68,13 @@ tags:
   - Misuse or impersonation *(uncertain)*
 - The tone of the letter suggests urgency and high stakes
 - The [[Suntree Root]] appears to be valuable to multiple unrelated groups
+- The first known Luxon-related clue appeared during the pursuit of the [[Suntree Root]]
+- The second appeared in [[Shadebarrow]] while searching for the Divine Tear
+- Both incidents connect the [[Luxon]] symbol to portal ingredients
+- The dead drow did not clearly explain their role in the [[Luxon]], only saying: “The [[Luxon]] is everything”
+- [[Basosaan]] may be a place, people, object, or cause connected to the drow’s mission *(unknown)*
+- The group should seek more information about:
+  - [[Luxon]]
+  - [[Basosaan]]
+  - Why Luxon-marked figures are involved with portal ingredients
+  - Whether “D” is connected to the dead drow in [[Shadebarrow]]

@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-05-07 - ",
-      "path": "Whispers of the Umbral Abyss/Sessions/2026-05-07 - .md"
-    },
-    {
       "basename": "2026-04-16 - The Price of Passage",
       "path": "Whispers of the Umbral Abyss/Sessions/2026-04-16 - The Price of Passage.md"
     },
     {
+      "basename": "Quest - Main - Assist the Realmseer",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md"
+    },
+    {
+      "basename": "Xartaza",
+      "path": "Whispers of the Umbral Abyss/People/Unsorted/Xartaza.md"
+    },
+    {
+      "basename": "Basosaan",
+      "path": "Whispers of the Umbral Abyss/Locations/Unsorted/Basosaan.md"
+    },
+    {
+      "basename": "Kaelos",
+      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Kaelos.md"
+    },
+    {
+      "basename": "Shadebarrow",
+      "path": "Whispers of the Umbral Abyss/Locations/Landmarks/Shadebarrow.md"
+    },
+    {
+      "basename": "Abyssal Plane",
+      "path": "Whispers of the Umbral Abyss/Locations/Unsorted/Abyssal Plane.md"
+    },
+    {
+      "basename": "Zerzus",
+      "path": "Whispers of the Umbral Abyss/People/Unsorted/Zerzus.md"
+    },
+    {
+      "basename": "2026-05-07 - Beneath Shadebarrow",
+      "path": "Whispers of the Umbral Abyss/Sessions/2026-05-07 - Beneath Shadebarrow.md"
+    },
+    {
+      "basename": "Betrayer Gods",
+      "path": "Whispers of the Umbral Abyss/Organizations/Betrayer Gods.md"
+    },
+    {
       "basename": "2026-03-26 - Doors of Shadebarrow",
       "path": "Whispers of the Umbral Abyss/Sessions/2026-03-26 - Doors of Shadebarrow.md"
+    },
+    {
+      "basename": "Quest - Side - The Mark of the Luxon",
+      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Side - The Mark of the Luxon.md"
+    },
+    {
+      "basename": "Organizations Archive",
+      "path": "_Archives/Organizations Archive.md"
+    },
+    {
+      "basename": "Whispers of the Umbral Abyss",
+      "path": "Whispers of the Umbral Abyss/Whispers of the Umbral Abyss.md"
+    },
+    {
+      "basename": "Scripts",
+      "path": "Misc/Scripts/Scripts.md"
     },
     {
       "basename": "People",
@@ -23,10 +71,6 @@
     {
       "basename": "Quest Log",
       "path": "Whispers of the Umbral Abyss/Quest Log/Quest Log.md"
-    },
-    {
-      "basename": "Quest - Main - Assist the Realmseer",
-      "path": "Whispers of the Umbral Abyss/Quest Log/Quest - Main - Assist the Realmseer.md"
     },
     {
       "basename": "Roland",
@@ -59,10 +103,6 @@
     {
       "basename": "Thaldrin",
       "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Thaldrin.md"
-    },
-    {
-      "basename": "Kaelos",
-      "path": "Whispers of the Umbral Abyss/People/Party/Wayfarers Accord/Kaelos.md"
     },
     {
       "basename": "C.H.A.R.L.E.S",
@@ -153,48 +193,12 @@
       "path": "Whispers of the Umbral Abyss/Locations/Landmarks/Thortil.md"
     },
     {
-      "basename": "Shadebarrow",
-      "path": "Whispers of the Umbral Abyss/Locations/Landmarks/Shadebarrow.md"
-    },
-    {
       "basename": "Sister Grieva",
       "path": "Whispers of the Umbral Abyss/People/Antagonists/Sister Grieva.md"
     },
     {
       "basename": "Sesaly",
       "path": "Whispers of the Umbral Abyss/People/Local Contacts/Sesaly.md"
-    },
-    {
-      "basename": "Jekt",
-      "path": "Whispers of the Umbral Abyss/People/Allies/Jekt.md"
-    },
-    {
-      "basename": "Stag and Flagon",
-      "path": "Whispers of the Umbral Abyss/Locations/Buildings & Sites/Stag and Flagon.md"
-    },
-    {
-      "basename": "The Fleeting Pages",
-      "path": "Whispers of the Umbral Abyss/Locations/Buildings & Sites/The Fleeting Pages.md"
-    },
-    {
-      "basename": "Tallstack Farm",
-      "path": "Whispers of the Umbral Abyss/Locations/Wilderness/Tallstack Farm.md"
-    },
-    {
-      "basename": "Kymal",
-      "path": "Whispers of the Umbral Abyss/Locations/Cities/Kymal.md"
-    },
-    {
-      "basename": "Special Rifle Corps of Whitestone",
-      "path": "Whispers of the Umbral Abyss/Organizations/Special Rifle Corps of Whitestone.md"
-    },
-    {
-      "basename": "Cobalt Soul",
-      "path": "Whispers of the Umbral Abyss/Organizations/Cobalt Soul.md"
-    },
-    {
-      "basename": "Daisy",
-      "path": "Whispers of the Umbral Abyss/People/Local Contacts/Daisy.md"
     }
   ],
   "omittedPaths": [],
